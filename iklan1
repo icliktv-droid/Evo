@@ -1,0 +1,921 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Indosiar
+http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV
+http://103.156.141.151:4567/stream/channelid/1680651630?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV HD
+http://103.156.141.151:4567/stream/channelid/112855664?profile=pass
+#EXTINF:0 type="stream" channelId="-1", ANTV
+http://103.156.141.151:4567/stream/channelid/1657698380?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans TV
+http://103.156.141.151:4567/stream/channelid/1137678123?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TransTV HD
+http://103.156.141.151:4567/stream/channelid/1769979321?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans 7
+http://103.156.141.151:4567/stream/channelid/578595906?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Trans7 HD
+http://103.156.141.151:4567/stream/channelid/1353003054?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TV One
+http://103.156.141.151:4567/stream/channelid/220042554?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Metro TV
+http://103.156.141.151:4567/stream/channelid/2021368551?profile=pass
+#EXTINF:0 type="stream" channelId="-1", METRO TV HD
+http://103.156.141.151:4567/stream/channelid/605494049?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Net TV
+http://103.156.141.151:4567/stream/channelid/666401500?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RTV
+http://103.156.141.151:4567/stream/channelid/995376651?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Net TV HD
+http://103.156.141.151:4567/stream/channelid/1145381301?profile=pass
+#EXTINF:0 type="stream" channelId="-1", JTV Surabaya
+http://103.156.141.151:4567/stream/channelid/66077942?profile=pass
+##EXTINF:0 type="stream" channelId="-1", Nusantara TV
+http://103.156.141.151:4567/stream/channelid/54965941?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Berita Satu
+http://103.156.141.151:4567/stream/channelid/1562803857?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Kompas TV
+http://103.156.141.151:4567/stream/channelid/385541231?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TVRI
+http://103.156.141.151:4567/stream/channelid/1955896278?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CNBC Indonesia HD
+http://103.156.141.151:4567/stream/channelid/1892942772?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CNN Indonesia HD
+http://103.156.141.151:4567/stream/channelid/865777007?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SEA TODAY
+http://103.156.141.151:4567/stream/channelid/782705042?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Daai TV
+http://103.156.141.151:4567/stream/channelid/322482914?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Jowo HD
+http://103.156.141.151:4567/stream/channelid/781048193?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Antara
+http://103.156.141.151:4567/stream/channelid/1372340681?profile=pass
+#EXTINF:0 type="stream" channelId="-1", ATV
+http://103.156.141.151:4567/stream/channelid/1823948288?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Insert
+http://103.156.141.151:4567/stream/channelid/549622484?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RRI Net
+http://103.156.141.151:4567/stream/channelid/299405487?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Jak TV
+http://103.156.141.151:4567/stream/channelid/1511718810?profile=pass
+#EXTINF:0 type="stream" channelId="-1", USee Prime
+http://103.156.141.151:4567/stream/channelid/1484658357?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Mozaik Channel
+http://103.156.141.151:4567/stream/channelid/1727041441?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Dunia Lain
+http://103.156.141.151:4567/stream/channelid/432828376?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Lingua
+http://103.156.141.151:4567/stream/channelid/586285434?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BeinSport 1 Indonesia
+http://103.156.141.151:4567/stream/channelid/770182179?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BeinSport 3 Indonesia
+http://103.156.141.151:4567/stream/channelid/999072984?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Fight Sport
+http://103.156.141.151:4567/stream/channelid/478899243?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HorizonSport
+http://103.156.141.151:4567/stream/channelid/1783731541?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DreamWorks
+http://103.156.141.151:4567/stream/channelid/991394236?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MTV Live
+http://103.156.141.151:4567/stream/channelid/94737268?profile=pass
+#EXTINF:0 type="stream" channelId="-1", T Music
+http://103.156.141.151:4567/stream/channelid/1766124352?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Prambors
+http://103.156.141.151:4567/stream/channelid/1438307106?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Citra Drama
+http://103.156.141.151:4567/stream/channelid/677383306?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INews
+http://103.156.141.151:4567/stream/channelid/1775364071?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Discovery
+http://103.156.141.151:4567/stream/channelid/462280383?profile=pass
+#EXTINF:0 type="stream" channelId="-1", History Channel
+http://103.156.141.151:4567/stream/channelid/584521026?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CGTN Documentary
+http://103.156.141.151:4567/stream/channelid/644897556?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Tech Strom 
+http://103.156.141.151:4567/stream/channelid/1531828589?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Crime & Investigation
+http://103.156.141.151:4567/stream/channelid/1553206679?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO
+http://103.156.141.151:4567/stream/channelid/145215374?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Signature
+http://103.156.141.151:4567/stream/channelid/323928926?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Family
+http://103.156.141.151:4567/stream/channelid/874120324?profile=pass
+#EXTINF:0 type="stream" channelId="-1", HBO Hits
+http://103.156.141.151:4567/stream/channelid/1396293580?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Extreme
+http://103.156.141.151:4567/stream/channelid/21570002?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Blue Ant Entertaiment
+http://103.156.141.151:4567/stream/channelid/605422995?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Bioskop Indonesia
+http://103.156.141.151:4567/stream/channelid/63621990?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Star Chinese Movie Legend
+http://103.156.141.151:4567/stream/channelid/78358943?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Thrill
+http://103.156.141.151:4567/stream/channelid/139523732?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Cinemax
+http://103.156.141.151:4567/stream/channelid/570845997?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Flik
+http://103.156.141.151:4567/stream/channelid/764284111?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Warner
+http://103.156.141.151:4567/stream/channelid/810982907?profile=pass
+#EXTINF:0 type="stream" channelId="-1", CINEMA WORLD
+http://103.156.141.151:4567/stream/channelid/1045547133?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Galaxy Premium
+http://103.156.141.151:4567/stream/channelid/1116649485?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Fox Family Movie
+http://103.156.141.151:4567/stream/channelid/1177534822?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Celestial Movie
+http://103.156.141.151:4567/stream/channelid/1235964251?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Z Bioskop
+http://103.156.141.151:4567/stream/channelid/1654884343?profile=pass
+#EXTINF:0 type="stream" channelId="-1", IMC
+http://103.156.141.151:4567/stream/channelid/1699616699?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TV5Monde
+http://103.156.141.151:4567/stream/channelid/1767248316?profile=pass
+#EXTINF:0 type="stream" channelId="-1", AXN
+http://103.156.141.151:4567/stream/channelid/1940316216?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Fox Action Movie
+http://103.156.141.151:4567/stream/channelid/1978738206?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Galaxy
+http://103.156.141.151:4567/stream/channelid/2102143307?profile=pass
+#EXTINF:0 type="stream" channelId="-1", KIX
+http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Citra Dangdut
+http://103.156.141.151:4567/stream/channelid/892980275?profile=pass
+#EXTINF:0 type="stream" channelId="-1", U Channel
+http://103.156.141.151:4567/stream/channelid/2016791628?profile=pass
+#EXTINF:0,Sony One
+http://103.156.141.151:4567/stream/channelid/45205185?profile=pass
+#EXTINF:0,Arirang
+http://103.156.141.151:4567/stream/channelid/188158551?profile=pass
+#EXTINF:0,CCTV4
+http://103.156.141.151:4567/stream/channelid/529840513?profile=pass
+#EXTINF:0,Sony Gem
+http://103.156.141.151:4567/stream/channelid/652599084?profile=pass
+#EXTINF:0,K+
+http://103.156.141.151:4567/stream/channelid/1383595813?profile=pass
+#EXTINF:0,TVN Movie
+http://103.156.141.151:4567/stream/channelid/1498652973?profile=pass
+#EXTINF:0,Fox life
+http://103.156.141.151:4567/stream/channelid/1564064339?profile=pass
+#EXTINF:0,TVN
+http://103.156.141.151:4567/stream/channelid/1630527068?profile=pass
+#EXTINF:0,Fox
+http://103.156.141.151:4567/stream/channelid/1829325744?profile=pass
+#EXTINF:0,Lifetime
+http://103.156.141.151:4567/stream/channelid/2069847605?profile=pass
+#EXTINF:0,Fox Crime
+http://103.156.141.151:4567/stream/channelid/2089810787?profile=pass
+#EXTINF:0,VOLI TV
+http://103.156.141.151:4567/stream/channelid/367213620?profile=pass
+#EXTINF:0,CHAMPION TV1
+http://103.156.141.151:4567/stream/channelid/1733758919?profile=pass
+#EXTINF:0,CHAMPION TV2
+http://103.156.141.151:4567/stream/channelid/1279723616?profile=pass
+#EXTINF:0,CHAMPION TV3
+http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
+#EXTINF:0,CHAMPION TV5
+http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
+#EXTINF:0,CHAMPION TV6
+http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 1 INDONESIA
+http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
+#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 3 INDONESIA
+http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS 7 DVB-S
+http://103.156.141.151:4567/stream/channelid/457124674?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI DVB-S
+http://103.156.141.151:4567/stream/channelid/1444580021?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD B
+http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INEWS HD B
+http://103.156.141.151:4567/stream/channelid/265629930?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD B
+http://103.156.141.151:4567/stream/channelid/295477375?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD B
+http://103.156.141.151:4567/stream/channelid/1866677810?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD B
+http://103.156.141.151:4567/stream/channelid/582352140?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MOJI TV B
+http://103.156.141.151:4567/stream/channelid/438208019?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV B
+http://103.156.141.151:4567/stream/channelid/2055094390?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Film Indonesia (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/260014190?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Bollywood Drama
+http://103.156.141.151:4567/stream/channelid/759805549?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG World Movies (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1525721857?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Box Office (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1979819063?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Action
+http://103.156.141.151:4567/stream/channelid/2063690598?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Haunted (Indonesia Subtittle)
+http://103.156.141.151:4567/stream/channelid/1884877113?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DTG Horror TV
+http://103.156.141.151:4567/stream/channelid/1426318248?profile=pass
+#EXTINF:0 type="stream" channelId="-1", V2Beats
+http://103.156.141.151:4567/stream/channelid/1349195628?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD
+http://103.156.141.151:4567/stream/channelid/600484674?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD
+http://103.156.141.151:4567/stream/channelid/969119593?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD
+http://103.156.141.151:4567/stream/channelid/1093895484?profile=pass
+#EXTINF:0 type="stream" channelId="-1", INEWS HD
+http://103.156.141.151:4567/stream/channelid/340125618?profile=pass
+#EXTINF:0,CCM HD 
+http://103.156.141.151:4567/stream/channelid/1055824693?profile=pass
+#EXTINF:0,Lagu Daerah Indonesia
+http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
+#EXTINF:0,Tembang Kenangan
+http://103.156.141.151:4567/stream/channelid/1466790126?profile=pass
+#EXTINF:0,RETRO TV
+http://103.156.141.151:4567/stream/channelid/730980447?profile=pass
+#EXTINF:0,UEFA EURO 2024 B
+http://103.156.141.151:4567/stream/channelid/2094008857?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(2)
+http://103.156.141.151:4567/stream/channelid/1917306454?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(3)
+http://103.156.141.151:4567/stream/channelid/1365409067?profile=pass
+#EXTINF:0,UEFA EURO 2024 B
+http://103.156.141.151:4567/stream/channelid/1077351869?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(3)
+http://103.156.141.151:4567/stream/channelid/949207879?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(2)
+http://103.156.141.151:4567/stream/channelid/596646702?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(4)
+http://103.156.141.151:4567/stream/channelid/245663639?profile=pass
+#EXTINF:0,UEFA EURO 2024 B(4)
+http://103.156.141.151:4567/stream/channelid/1732422292?profile=pass
+#EXTINF:0,CONMEBOL COPA AMERICA 2024 B
+http://103.156.141.151:4567/stream/channelid/342183394?profile=pass
+#EXTINF:0,CONMEBOL COPA AMERICA 2024 B(2)
+http://103.156.141.151:4567/stream/channelid/700839575?profile=pass
+#EXTINF:0,CONMEBOL COPA AMERICA 2024 B(2)
+http://103.156.141.151:4567/stream/channelid/1151532975?profile=pass
+#EXTINF:0,CONMEBOL COPA AMERICA 2024 B
+http://103.156.141.151:4567/stream/channelid/1872649153?profile=pass
+#EXTINF:0,Astro Super Sport 1 
+http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
+#EXTINF:0,Astro Super Sport 2 
+http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
+#EXTINF:0,Astro Super Sport 3 
+http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
+#EXTINF:0,Astro Super Sport 4 
+http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
+#EXTINF:0,Spo TV 1 b
+http://103.156.141.151:4567/stream/channelid/146021844?profile=pass
+#EXTINF:0,Spo TV 2 b
+http://103.156.141.151:4567/stream/channelid/560589528?profile=pass
+#EXTINF:0,SPORT TV 1ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
+#EXTINF:0,SPORT TV 2ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
+#EXTINF:0,CHAMPION TV1 CBN
+http://103.156.141.151:4567/stream/channelid/993251844?profile=pass
+#EXTINF:0,CHAMPION TV2 CBN
+http://103.156.141.151:4567/stream/channelid/555633637?profile=pass
+#EXTINF:0,ASTRO OLYMPICS-1
+http://103.156.141.151:4567/stream/channelid/1352889878?profile=pass
+#EXTINF:0,ASTRO OLYMPICS-2
+http://103.156.141.151:4567/stream/channelid/87372130?profile=pass
+#EXTINF:0,ASTRO OLYMPICS-3
+http://103.156.141.151:4567/stream/channelid/186320927?profile=pass
+#EXTINF:0,ASTRO OLYMPICS-4
+http://103.156.141.151:4567/stream/channelid/1990488970?profile=pass
+#EXTINF:0,ASTRO OLYMPICS-5
+http://103.156.141.151:4567/stream/channelid/1605503012?profile=pass
+#EXTINF:0,Eurosport 1 FHD
+http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
+#EXTINF:0,Eurosport 2 FHD
+http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
+#EXTINF:0,DSTV: Supersport Premiere League
+http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
+#EXTINF:0,DSTV: SuperSport Maximo
+http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
+#EXTINF:0,DSTV: SuperSport LaLiga
+http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
+#EXTINF:0,USA Network "EPL"
+http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
+#EXTINF:0,Astro Arena 1
+http://103.156.141.151:4567/stream/channelid/1052702708?profile=pass
+#EXTINF:0,Asrtro Arena 2
+http://103.156.141.151:4567/stream/channelid/1461418236?profile=pass
+#EXTINF:0,Sportv 1 FHD
+http://103.156.141.151:4567/stream/channelid/1282709158?profile=pass
+#EXTINF:0,Sportv 2 FHD
+http://103.156.141.151:4567/stream/channelid/1702321155?profile=pass
+#EXTINF:0,Sportv 3 FHD
+http://103.156.141.151:4567/stream/channelid/61698339?profile=pass
+#EXTINF:0,USA Olympic Channel
+http://103.156.141.151:4567/stream/channelid/831724058?profile=pass
+#EXTINF:0,AU Olympics_Channel
+http://103.156.141.151:4567/stream/channelid/747309905?profile=pass
+#EXTINF:0,9XM Music
+http://103.156.141.151:4567/stream/channelid/74784163?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Champions TV5 HD
+http://103.195.65.203:4381/stream/channelid/786472822?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Champions TV6 HD
+http://103.195.65.203:4381/stream/channelid/124475707?profile=pass
+#EXTINF:0 type="stream" channelId="-1", GTV HD
+http://103.195.65.203:4381/stream/channelid/985573658?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD
+http://103.195.65.203:4381/stream/channelid/1863770559?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RCTI HD
+http://103.195.65.203:4381/stream/channelid/921847880?profile=pass
+#EXTINF:0 type="stream" channelId="-1", SCTV HD
+http://103.195.65.203:4381/stream/channelid/1844170157?ticket=0AD1FCCA9958C930395F56DAE54F85B34B23B26C&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS 7 HD
+http://103.195.65.203:4381/stream/channelid/1170618140?ticket=BD46E7D9B0DB58125C53D17A560CF7A3DBF47775&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TRANS TV HD
+http://103.195.65.203:4381/stream/channelid/1067300261?ticket=35AF2BD29F8D47CD88BD243BA66D7862A1F2B439&profile=pass
+#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD
+http://103.195.65.203:4381/stream/channelid/750990507?ticket=29D30E10D1EB400C965C5863B3C003FE3437185D&profile=pass
+#EXTINF:0 type="stream" channelId="-1", ANTV HD
+http://103.195.65.203:4381/stream/channelid/150170875?ticket=3AB838D523F91129E12470B72DC06461FEA20037&profile=pass
+#EXTINF:0 type="stream" channelId="-1", TVONE HD
+http://103.195.65.203:4381/stream/channelid/1848138030?ticket=43B4F708F83FBFD46C70864C9BF86955439E28DE&profile=pass
+#EXTINF:0 type="stream" channelId="-1", VTV HD
+http://103.195.65.203:4381/stream/channelid/1487592807?ticket=7823D3FB78519F1D73A24F550FB5BCB693702CF8&profile=pass
+#EXTINF:0 type="stream" channelId="-1", NET TV
+http://103.195.65.203:4381/stream/channelid/1912355624?ticket=45F60AB6009CC720342BB655E0E42CC1629FC801&profile=pass
+#EXTINF:0 type="stream" channelId="-1", NET TV HD
+http://103.195.65.203:4381/stream/channelid/1254084264?ticket=D9CFC46EADB242EA19C686D5783022B12CD72B7D&profile=pass
+#EXTINF:0 type="stream" channelId="-1", iNEWS
+http://103.195.65.203:4381/stream/channelid/1653782149?ticket=1DDAC0771B23D85D934D832FD31ADC7B037630DD&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:4381/stream/channelid/344921488?ticket=7FB01586268395F3537EAAF47600FB32E00AB5EA&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:4381/stream/channelid/1622169260?ticket=E62DCB4464D6E091DFD281F9CB9D65936B6412ED&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:4381/stream/channelid/1836096440?ticket=53D2931BF5381021ECEDD7B87282545764465BC4&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:4381/stream/channelid/972990194?ticket=49D6C09332673DF54840396271B0F358D4C97691&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:4381/stream/channelid/1731000227?ticket=B8B0431B96EE73F5101315350BD83E83C95D09F7&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:4381/stream/channelid/198728576?ticket=1CDBD2F11716D7EC6C3F7D0B5BFC86271900F4B8&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:4381/stream/channelid/1313981133?ticket=0A9C01EDC4A9FB6174FE63BFA0AB23ADD682F43F&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:4381/stream/channelid/433364157?ticket=D802B20366DEF8A783D3CD2C549319A22865E193&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:4381/stream/channelid/1001779470?ticket=33BC60E5F2F12AA1D1AE5DE3A6ECF63D21070194&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:4381/stream/channelid/1223557543?ticket=1E6746E09E33BDD408524714BD4504892392D5CC&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:4381/stream/channelid/270355248?ticket=D102B64EFCF81EFFB617FE1EE5F258BF304CF951&profile=pass
+#EXTINF:0,MENTARITV HD
+http://103.195.65.203:4381/stream/channelid/779935658?ticket=6D2DA090DBF087E6A972CEB9253B2ECE273F3E54&profile=pass
+#EXTINF:0,MOJI HD
+http://103.195.65.203:4381/stream/channelid/1959631406?ticket=B22B91AB0F0F3EF3F54B9C29D2965C3CD1420F79&profile=pass
+#EXTINF:0,Antara
+http://103.195.65.203:4381/stream/channelid/1693140250?ticket=FE940B4F9C51DB0BE608468CA38599F9F61BE45E&profile=pass
+#EXTINF:0,Fight Sport
+http://103.195.65.203:4381/stream/channelid/398891976?ticket=D3E2B2935A344B70AA6872CCE528B7BF517765B9&profile=pass
+#EXTINF:0,Warner
+http://103.195.65.203:4381/stream/channelid/1550496627?ticket=56E3CBD7E8F99403E7D5291A69E85C31F5A216B2&profile=pass
+#EXTINF:0,HBO
+http://103.195.65.203:4381/stream/channelid/404276820?ticket=6E8E4C774EA76946388F13C07B8A23BA8182FA7A&profile=pass
+#EXTINF:0,HBO Hits
+http://103.195.65.203:4381/stream/channelid/1992679913?ticket=9497DC0A6BCBB1E45DAD9C9CB4DBEE77D9857C61&profile=pass
+#EXTINF:0,HBO Signature
+http://103.195.65.203:4381/stream/channelid/1349958559?ticket=3AF0E5DB2B89749D4649D4656E816416A09547AD&profile=pass
+#EXTINF:0,HBO Family
+http://103.195.65.203:4381/stream/channelid/807701066?ticket=2E8FA6204CFE4CEB4BE996E6BAA3F4990A183AAF&profile=pass
+#EXTINF:0,Cinemax
+http://103.195.65.203:4381/stream/channelid/672957585?ticket=612C80D9E86DE78913CFF1371A3F69D403E64F1B&profile=pass
+#EXTINF:0,Thrill
+http://103.195.65.203:4381/stream/channelid/190935395?ticket=11701DEEB509B4405222CDE11BC5D739BC961F2A&profile=pass
+#EXTINF:0,TVN Movie
+http://103.195.65.203:4381/stream/channelid/1097561188?ticket=C4325EC18B9AD64F5A28C11C2075A0D055554FBF&profile=pass
+#EXTINF:0,Cinema World
+http://103.195.65.203:4381/stream/channelid/774842907?ticket=29A42B1EEBD1D13D1B3D78B79135B006361B4F3F&profile=pass
+#EXTINF:0,IMC HD
+http://103.195.65.203:4381/stream/channelid/835899132?ticket=06B0B057FDDA4D181140B7F5E0C1045D8C839ACE&profile=pass
+#EXTINF:0,Paramount HD
+http://103.195.65.203:4381/stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:4381/stream/channelid/1491164810?ticket=53FBD6B6109B7330A4ECECA8733B1FDFBF24681D&profile=pass
+#EXTINF:0,My Family
+http://103.195.65.203:4381/stream/channelid/1683800827?ticket=55A23CF19D7FC5CEB6E7AB8D2082B3F33D1433EC&profile=pass
+#EXTINF:0,Bioskop Indonesia
+http://103.195.65.203:4381/stream/channelid/2140517565?ticket=F9EFE4208E206B251C8926668C5441B186BB9D47&profile=pass
+#EXTINF:0,Celestial Movie
+http://103.195.65.203:4381/stream/channelid/947888209?ticket=02817E012D70412D9CA85239018FC04964566CE6&profile=pass
+#EXTINF:0,My Cinema Asia
+http://103.195.65.203:4381/stream/channelid/944056621?ticket=B92AC047489226CEE89BA654A966657813304303&profile=pass
+#EXTINF:0,Galaxy
+http://103.195.65.203:4381/stream/channelid/184888436?ticket=A5CDF78F569C21864C929101D3F3FD9E68AF6A8B&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+http://103.195.65.203:4381/stream/channelid/1561777786?ticket=BE691DE59FE369432CCF0A9B1CF7722B911934A4&profile=pass
+#EXTINF:0,AXN
+http://103.195.65.203:4381/stream/channelid/531140253?ticket=0790360B62D1CB4AF820BB675DC51D73ADA26193&profile=pass
+#EXTINF:0,KIX
+http://103.195.65.203:4381/stream/channelid/2045057566?ticket=A35026BF46EC3E1466D960EEBE33B56B95FF1D8F&profile=pass
+#EXTINF:0,Sony One
+http://103.195.65.203:4381/stream/channelid/1437479149?ticket=966F1CE5D7F8447B05BEC0216C111DEC95CA105B&profile=pass
+#EXTINF:0,TVN HD
+http://103.195.65.203:4381/stream/channelid/1476291289?ticket=FB782193B16EBA062E6F0F40B938CBB592BFE9A3&profile=pass
+#EXTINF:0,K+
+http://103.195.65.203:4381/stream/channelid/576020923?ticket=A60FB31A8270CB88538B585B5A42BD53500A3F21&profile=pass
+#EXTINF:0,History Channel
+http://103.195.65.203:4381/stream/channelid/2563582?ticket=B3D63188FB8A587966725FC5B09126D14ABD81FC&profile=pass
+#EXTINF:0,TECH STORM
+http://103.195.65.203:4381/stream/channelid/807144202?ticket=A95496CFB6B8FB65B7FF9A0A84B37F760869814D&profile=pass
+#EXTINF:0,HITS
+http://103.195.65.203:4381/stream/channelid/696975643?ticket=EF90023E7E87A450A84AF5316A20B67A40ED0E15&profile=pass
+#EXTINF:0,Crime & Investigation
+http://103.195.65.203:4381/stream/channelid/2070777858?ticket=3E4359ECD56CA0777AF07E135EF3DB4877E6BC02&profile=pass
+#EXTINF:0,Discovery HD
+http://103.195.65.203:4381/stream/channelid/1751149199?ticket=4FEC18B1A03DC7B51B7A006BA89D399BD4FE4197&profile=pass
+#EXTINF:0,Animal Planet HD
+http://103.195.65.203:4381/stream/channelid/1826622254?ticket=9BD6297CD17D70091B78E85606E340BEA1B3D405&profile=pass
+#EXTINF:0,Citra Dangdut
+http://103.195.65.203:4381/stream/channelid/1582459547?ticket=132A3DEA6D26CDC5FD44B56C83EDD262A9722273&profile=pass
+#EXTINF:0,Dunia Lain
+http://103.195.65.203:4381/stream/channelid/341425959?ticket=692A869478930EEBD4FCD0F54F437C3CE8969BE5&profile=pass
+#EXTINF:0,Channel [V]
+http://103.195.65.203:4381/stream/channelid/389159090?ticket=7EF0A0780F7C01A94E7C39B62E6CEDD75AACCAC6&profile=pass
+#EXTINF:0,Citra Drama
+http://103.195.65.203:4381/stream/channelid/1992651715?ticket=978CDA9ED2E31969190162C71D229ABB0577506C&profile=pass
+#EXTINF:0,MTV Live
+http://103.195.65.203:4381/stream/channelid/1279934608?ticket=17D5DD1D76ABCBEB805CCB7DFDFCC12886845076&profile=pass
+#EXTINF:0,HBO Dolby HD
+http://103.195.65.203:4381/stream/channelid/509739107?ticket=3B24E3F2E1044B99848F6CC5C972E3DF6A4FB42F&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+http://103.195.65.203:4381/stream/channelid/579600852?ticket=F86793DE802F873CFAC2E977FFE97D7C1165ECD0&profile=pass
+#EXTINF:0,HBO Hits Dolby HD
+http://103.195.65.203:4381/stream/channelid/1831650989?ticket=43C2B44A43094162EEC30F9D2BEE4DBF5BC6C7DC&profile=pass
+#EXTINF:0,HBO Family Dolby HD
+http://103.195.65.203:4381/stream/channelid/1505307444?ticket=0FFC0BB60022B19D97A575502D39446BD0231F94&profile=pass
+#EXTINF:0,Cinemax Dolby HD
+http://103.195.65.203:4381/stream/channelid/784844871?ticket=D1E3E45241CF79E9F21BE574C224749E568B45E4&profile=pass
+#EXTINF:0,My Cinema HD
+http://103.195.65.203:4381/stream/channelid/1421215239?ticket=8516F4E8A31570962D92F09EADC9DBA4456DAC9C&profile=pass
+#EXTINF:0,My Cinema Asia HD
+http://103.195.65.203:4381/stream/channelid/962651135?ticket=82745203BAA684AEA64188C35241C8C3C8A87A97&profile=pass
+#EXTINF:0,Rock Action HD
+http://103.195.65.203:4381/stream/channelid/1297396253?ticket=C0F939AD8FFF325DA4038F28E0EB871BC938F895&profile=pass
+#EXTINF:0,Rock Entertainment HD
+http://103.195.65.203:4381/stream/channelid/1529737638?ticket=32E7B33184728DB758685365C68FADC93579779B&profile=pass
+#EXTINF:0,TVN Movies HD
+http://103.195.65.203:4381/stream/channelid/953372893?ticket=7E061FAEF89E612C9A8186F5FD5DC029C4A9B2DD&profile=pass
+#EXTINF:0,Flik HD
+http://103.195.65.203:4381/stream/channelid/1107549985?ticket=31A59A6A012EDCD30C3F74F8E5897D287187D388&profile=pass
+#EXTINF:0,My Family Channel HD
+http://103.195.65.203:4381/stream/channelid/1552834394?ticket=DC878FB52C4708E741BF27602C17CB486BAAD0A0&profile=pass
+#EXTINF:0,Champions TV1 HD
+http://103.195.65.203:4381/stream/channelid/514602870?ticket=A09C637FF211A116AE1E4BB64A8536CBAD600A14&profile=pass
+#EXTINF:0,Champions TV2 HD
+http://103.195.65.203:4381/stream/channelid/1673181221?ticket=5C6E29CC2DA8629C5173B59ECFFA66156D459CD4&profile=pass
+#EXTINF:0,SPO TV
+http://103.195.65.203:4381/stream/channelid/374463231?ticket=82FA19A2282AEC9358ECA20754E63A33A1484B65&profile=pass
+#EXTINF:0,SPO TV2
+http://103.195.65.203:4381/stream/channelid/1894419107?ticket=D00440755F998B875AA299881BEFB4B5722E4DE1&profile=pass
+#EXTINF:0,W sport
+http://103.195.65.203:4381/stream/channelid/2056147724?ticket=24CF793D2DBD3555A7B574E6C388917951256E8D&profile=pass
+#EXTINF:0,Horizon Sport
+http://103.195.65.203:4381/stream/channelid/117198118?ticket=A414E9CD60D8C43A065DE4858F6D912BA349FD62&profile=pass
+#EXTINF:0,Fight Sports HD
+http://103.195.65.203:4381/stream/channelid/1595973397?ticket=44E3BDA79ABDC0079B506A0A548BB4D6ED64FE34&profile=pass
+#EXTINF:0,Champions TV5 HD
+http://103.195.65.203:4481/stream/channelid/786472822?ticket=E5FD7382A4A1CB88CE09E2AC436C4E6C17783DC6&profile=pass
+#EXTINF:0,Champions TV6 HD
+http://103.195.65.203:4481/stream/channelid/124475707?ticket=9AA0936BB87DA847D530DC21C73FD77CE706F3D9&profile=pass
+#EXTINF:0,GTV HD
+http://103.195.65.203:4481/stream/channelid/985573658?ticket=56E796D5E2A09F81442B1520E8381ED0CF1152CE&profile=pass
+#EXTINF:0,MNCTV HD
+http://103.195.65.203:4481/stream/channelid/1863770559?ticket=7CCC5AEA181519BAA3C6538F3349D575FBEC8D48&profile=pass
+#EXTINF:0,RCTI HD
+http://103.195.65.203:4481/stream/channelid/921847880?ticket=0F6109E906A18731FAE06CE757414129FA755581&profile=pass
+#EXTINF:0,SCTV HD
+http://103.195.65.203:4481/stream/channelid/1844170157?ticket=0AD1FCCA9958C930395F56DAE54F85B34B23B26C&profile=pass
+#EXTINF:0,TRANS 7 HD
+http://103.195.65.203:4481/stream/channelid/1170618140?ticket=BD46E7D9B0DB58125C53D17A560CF7A3DBF47775&profile=pass
+#EXTINF:0,TRANS TV HD
+http://103.195.65.203:4481/stream/channelid/1067300261?ticket=35AF2BD29F8D47CD88BD243BA66D7862A1F2B439&profile=pass
+#EXTINF:0,INDOSIAR HD
+http://103.195.65.203:4481/stream/channelid/750990507?ticket=29D30E10D1EB400C965C5863B3C003FE3437185D&profile=pass
+#EXTINF:0,ANTV HD
+http://103.195.65.203:4481/stream/channelid/150170875?ticket=3AB838D523F91129E12470B72DC06461FEA20037&profile=pass
+#EXTINF:0,TVONE HD
+http://103.195.65.203:4481/stream/channelid/1848138030?ticket=43B4F708F83FBFD46C70864C9BF86955439E28DE&profile=pass
+#EXTINF:0,VTV HD
+http://103.195.65.203:4481/stream/channelid/1487592807?ticket=7823D3FB78519F1D73A24F550FB5BCB693702CF8&profile=pass
+#EXTINF:0,NET TV
+http://103.195.65.203:4481/stream/channelid/1912355624?ticket=45F60AB6009CC720342BB655E0E42CC1629FC801&profile=pass
+#EXTINF:0,NET TV HD
+http://103.195.65.203:4481/stream/channelid/1254084264?ticket=D9CFC46EADB242EA19C686D5783022B12CD72B7D&profile=pass
+#EXTINF:0,iNEWS
+http://103.195.65.203:4481/stream/channelid/1653782149?ticket=1DDAC0771B23D85D934D832FD31ADC7B037630DD&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:4481/stream/channelid/344921488?ticket=7FB01586268395F3537EAAF47600FB32E00AB5EA&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:4481/stream/channelid/1622169260?ticket=E62DCB4464D6E091DFD281F9CB9D65936B6412ED&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:4481/stream/channelid/1836096440?ticket=53D2931BF5381021ECEDD7B87282545764465BC4&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:4481/stream/channelid/972990194?ticket=49D6C09332673DF54840396271B0F358D4C97691&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:4481/stream/channelid/1731000227?ticket=B8B0431B96EE73F5101315350BD83E83C95D09F7&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:4481/stream/channelid/198728576?ticket=1CDBD2F11716D7EC6C3F7D0B5BFC86271900F4B8&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:4481/stream/channelid/1313981133?ticket=0A9C01EDC4A9FB6174FE63BFA0AB23ADD682F43F&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:4481/stream/channelid/433364157?ticket=D802B20366DEF8A783D3CD2C549319A22865E193&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:4481/stream/channelid/1001779470?ticket=33BC60E5F2F12AA1D1AE5DE3A6ECF63D21070194&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:4481/stream/channelid/1223557543?ticket=1E6746E09E33BDD408524714BD4504892392D5CC&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:4481/stream/channelid/270355248?ticket=D102B64EFCF81EFFB617FE1EE5F258BF304CF951&profile=pass
+#EXTINF:0,MENTARITV HD
+http://103.195.65.203:4481/stream/channelid/779935658?ticket=6D2DA090DBF087E6A972CEB9253B2ECE273F3E54&profile=pass
+#EXTINF:0,MOJI HD
+http://103.195.65.203:4481/stream/channelid/1959631406?ticket=B22B91AB0F0F3EF3F54B9C29D2965C3CD1420F79&profile=pass
+#EXTINF:0,Antara
+http://103.195.65.203:4481/stream/channelid/1693140250?ticket=FE940B4F9C51DB0BE608468CA38599F9F61BE45E&profile=pass
+#EXTINF:0,Fight Sport
+http://103.195.65.203:4481/stream/channelid/398891976?ticket=D3E2B2935A344B70AA6872CCE528B7BF517765B9&profile=pass
+#EXTINF:0,Warner
+http://103.195.65.203:4481/stream/channelid/1550496627?ticket=56E3CBD7E8F99403E7D5291A69E85C31F5A216B2&profile=pass
+#EXTINF:0,HBO
+http://103.195.65.203:4481/stream/channelid/404276820?ticket=6E8E4C774EA76946388F13C07B8A23BA8182FA7A&profile=pass
+#EXTINF:0,HBO Hits
+http://103.195.65.203:4481/stream/channelid/1992679913?ticket=9497DC0A6BCBB1E45DAD9C9CB4DBEE77D9857C61&profile=pass
+#EXTINF:0,HBO Signature
+http://103.195.65.203:4481/stream/channelid/1349958559?ticket=3AF0E5DB2B89749D4649D4656E816416A09547AD&profile=pass
+#EXTINF:0,HBO Family
+http://103.195.65.203:4481/stream/channelid/807701066?ticket=2E8FA6204CFE4CEB4BE996E6BAA3F4990A183AAF&profile=pass
+#EXTINF:0,Cinemax
+http://103.195.65.203:4481/stream/channelid/672957585?ticket=612C80D9E86DE78913CFF1371A3F69D403E64F1B&profile=pass
+#EXTINF:0,Thrill
+http://103.195.65.203:4481/stream/channelid/190935395?ticket=11701DEEB509B4405222CDE11BC5D739BC961F2A&profile=pass
+#EXTINF:0,TVN Movie
+http://103.195.65.203:4481/stream/channelid/1097561188?ticket=C4325EC18B9AD64F5A28C11C2075A0D055554FBF&profile=pass
+#EXTINF:0,Cinema World
+http://103.195.65.203:4481/stream/channelid/774842907?ticket=29A42B1EEBD1D13D1B3D78B79135B006361B4F3F&profile=pass
+#EXTINF:0,IMC HD
+http://103.195.65.203:4481/stream/channelid/835899132?ticket=06B0B057FDDA4D181140B7F5E0C1045D8C839ACE&profile=pass
+#EXTINF:0,Paramount HD
+http://103.195.65.203:4481/stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:4481/stream/channelid/1491164810?ticket=53FBD6B6109B7330A4ECECA8733B1FDFBF24681D&profile=pass
+#EXTINF:0,My Family
+http://103.195.65.203:4481/stream/channelid/1683800827?ticket=55A23CF19D7FC5CEB6E7AB8D2082B3F33D1433EC&profile=pass
+#EXTINF:0,Bioskop Indonesia
+http://103.195.65.203:4481/stream/channelid/2140517565?ticket=F9EFE4208E206B251C8926668C5441B186BB9D47&profile=pass
+#EXTINF:0,Celestial Movie
+http://103.195.65.203:4481/stream/channelid/947888209?ticket=02817E012D70412D9CA85239018FC04964566CE6&profile=pass
+#EXTINF:0,My Cinema Asia
+http://103.195.65.203:4481/stream/channelid/944056621?ticket=B92AC047489226CEE89BA654A966657813304303&profile=pass
+#EXTINF:0,Galaxy
+http://103.195.65.203:4481/stream/channelid/184888436?ticket=A5CDF78F569C21864C929101D3F3FD9E68AF6A8B&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+http://103.195.65.203:4481/stream/channelid/1561777786?ticket=BE691DE59FE369432CCF0A9B1CF7722B911934A4&profile=pass
+#EXTINF:0,Z Bioskop
+http://103.195.65.203:4481/stream/channelid/1544525858?ticket=26B099506F0C3D978705509DA6E0BF2E3411F281&profile=pass
+#EXTINF:0,AXN
+http://103.195.65.203:4481/stream/channelid/531140253?ticket=0790360B62D1CB4AF820BB675DC51D73ADA26193&profile=pass
+#EXTINF:0,KIX
+http://103.195.65.203:4481/stream/channelid/2045057566?ticket=A35026BF46EC3E1466D960EEBE33B56B95FF1D8F&profile=pass
+#EXTINF:0,Sony One
+http://103.195.65.203:4481/stream/channelid/1437479149?ticket=966F1CE5D7F8447B05BEC0216C111DEC95CA105B&profile=pass
+#EXTINF:0,TVN HD
+http://103.195.65.203:4481/stream/channelid/1476291289?ticket=FB782193B16EBA062E6F0F40B938CBB592BFE9A3&profile=pass
+#EXTINF:0,K+
+http://103.195.65.203:4481/stream/channelid/576020923?ticket=A60FB31A8270CB88538B585B5A42BD53500A3F21&profile=pass
+#EXTINF:0,History Channel
+http://103.195.65.203:4481/stream/channelid/2563582?ticket=B3D63188FB8A587966725FC5B09126D14ABD81FC&profile=pass
+#EXTINF:0,TECH STORM
+http://103.195.65.203:4481/stream/channelid/807144202?ticket=A95496CFB6B8FB65B7FF9A0A84B37F760869814D&profile=pass
+#EXTINF:0,HITS
+http://103.195.65.203:4481/stream/channelid/696975643?ticket=EF90023E7E87A450A84AF5316A20B67A40ED0E15&profile=pass
+#EXTINF:0,Crime & Investigation
+http://103.195.65.203:4481/stream/channelid/2070777858?ticket=3E4359ECD56CA0777AF07E135EF3DB4877E6BC02&profile=pass
+#EXTINF:0,Discovery HD
+http://103.195.65.203:4481/stream/channelid/1751149199?ticket=4FEC18B1A03DC7B51B7A006BA89D399BD4FE4197&profile=pass
+#EXTINF:0,Animal Planet HD
+http://103.195.65.203:4481/stream/channelid/1826622254?ticket=9BD6297CD17D70091B78E85606E340BEA1B3D405&profile=pass
+#EXTINF:0,Citra Dangdut
+http://103.195.65.203:4481/stream/channelid/1582459547?ticket=132A3DEA6D26CDC5FD44B56C83EDD262A9722273&profile=pass
+#EXTINF:0,Dunia Lain
+http://103.195.65.203:4481/stream/channelid/341425959?ticket=692A869478930EEBD4FCD0F54F437C3CE8969BE5&profile=pass
+#EXTINF:0,Channel [V]
+http://103.195.65.203:4481/stream/channelid/389159090?ticket=7EF0A0780F7C01A94E7C39B62E6CEDD75AACCAC6&profile=pass
+#EXTINF:0,Citra Drama
+http://103.195.65.203:4481/stream/channelid/1992651715?ticket=978CDA9ED2E31969190162C71D229ABB0577506C&profile=pass
+#EXTINF:0,MTV Live
+http://103.195.65.203:4481/stream/channelid/1279934608?ticket=17D5DD1D76ABCBEB805CCB7DFDFCC12886845076&profile=pass
+#EXTINF:0,HBO Dolby HD
+http://103.195.65.203:4481/stream/channelid/509739107?ticket=3B24E3F2E1044B99848F6CC5C972E3DF6A4FB42F&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+http://103.195.65.203:4481/stream/channelid/579600852?ticket=F86793DE802F873CFAC2E977FFE97D7C1165ECD0&profile=pass
+#EXTINF:0,HBO Hits Dolby HD
+http://103.195.65.203:4481/stream/channelid/1831650989?ticket=43C2B44A43094162EEC30F9D2BEE4DBF5BC6C7DC&profile=pass
+#EXTINF:0,HBO Family Dolby HD
+http://103.195.65.203:4481/stream/channelid/1505307444?ticket=0FFC0BB60022B19D97A575502D39446BD0231F94&profile=pass
+#EXTINF:0,Cinemax Dolby HD
+http://103.195.65.203:4481/stream/channelid/784844871?ticket=D1E3E45241CF79E9F21BE574C224749E568B45E4&profile=pass
+#EXTINF:0,My Cinema HD
+http://103.195.65.203:4481/stream/channelid/1421215239?ticket=8516F4E8A31570962D92F09EADC9DBA4456DAC9C&profile=pass
+#EXTINF:0,My Cinema Asia HD
+http://103.195.65.203:4481/stream/channelid/962651135?ticket=82745203BAA684AEA64188C35241C8C3C8A87A97&profile=pass
+#EXTINF:0,Rock Action HD
+http://103.195.65.203:4481/stream/channelid/1297396253?ticket=C0F939AD8FFF325DA4038F28E0EB871BC938F895&profile=pass
+#EXTINF:0,Rock Entertainment HD
+http://103.195.65.203:4481/stream/channelid/1529737638?ticket=32E7B33184728DB758685365C68FADC93579779B&profile=pass
+#EXTINF:0,TVN Movies HD
+http://103.195.65.203:4481/stream/channelid/953372893?ticket=7E061FAEF89E612C9A8186F5FD5DC029C4A9B2DD&profile=pass
+#EXTINF:0,Flik HD
+http://103.195.65.203:4481/stream/channelid/1107549985?ticket=31A59A6A012EDCD30C3F74F8E5897D287187D388&profile=pass
+#EXTINF:0,My Family Channel HD
+http://103.195.65.203:4481/stream/channelid/1552834394?ticket=DC878FB52C4708E741BF27602C17CB486BAAD0A0&profile=pass
+#EXTINF:0,Champions TV1 HD
+http://103.195.65.203:4481/stream/channelid/514602870?ticket=A09C637FF211A116AE1E4BB64A8536CBAD600A14&profile=pass
+#EXTINF:0,Champions TV2 HD
+http://103.195.65.203:4481/stream/channelid/1673181221?ticket=5C6E29CC2DA8629C5173B59ECFFA66156D459CD4&profile=pass
+#EXTINF:0,SPO TV
+http://103.195.65.203:4481/stream/channelid/374463231?ticket=82FA19A2282AEC9358ECA20754E63A33A1484B65&profile=pass
+#EXTINF:0,SPO TV2
+http://103.195.65.203:4481/stream/channelid/1894419107?ticket=D00440755F998B875AA299881BEFB4B5722E4DE1&profile=pass
+#EXTINF:0,W sport
+http://103.195.65.203:4481/stream/channelid/2056147724?ticket=24CF793D2DBD3555A7B574E6C388917951256E8D&profile=pass
+#EXTINF:0,Horizon Sport
+http://103.195.65.203:4481/stream/channelid/117198118?ticket=A414E9CD60D8C43A065DE4858F6D912BA349FD62&profile=pass
+#EXTINF:0,Fight Sports HD
+http://103.195.65.203:4481/stream/channelid/1595973397?ticket=44E3BDA79ABDC0079B506A0A548BB4D6ED64FE34&profile=pass
+#EXTINF:0,Champions TV5 HD
+http://103.195.65.203:9481/stream/channelid/786472822?ticket=D042495608C1568A713EDD0E5C585226936772B3&profile=pass
+#EXTINF:0,Champions TV6 HD
+http://103.195.65.203:9481/stream/channelid/124475707?ticket=6D4CA1060C3E25D15B6F2CEEA477D244A9278213&profile=pass
+#EXTINF:0,GTV HD
+http://103.195.65.203:9481/stream/channelid/985573658?ticket=0EE53A7EEC7A1ED9A5ADEAE23D9A4EA717C8F117&profile=pass
+#EXTINF:0,MNCTV HD
+http://103.195.65.203:9481/stream/channelid/1863770559?ticket=F7058DD0323933B8DD37A1CAB240D0D597D121B0&profile=pass
+#EXTINF:0,RCTI HD
+http://103.195.65.203:9481/stream/channelid/921847880?ticket=882CDDA1AF53FA9EF708258D8FB6654A28814267&profile=pass
+#EXTINF:0,SCTV HD
+http://103.195.65.203:9481/stream/channelid/1844170157?ticket=4A978D1885F2F1FC935626FD72F726B190494B55&profile=pass
+#EXTINF:0,TRANS 7 HD
+http://103.195.65.203:9481/stream/channelid/1170618140?ticket=1CDA47488EBB0BC1553966C5584920535DBEA62E&profile=pass
+#EXTINF:0,TRANS TV HD
+http://103.195.65.203:9481/stream/channelid/1067300261?ticket=BC5EBBFCAA3431B3246D49A8D14089C5B5D2ACE7&profile=pass
+#EXTINF:0,INDOSIAR HD
+http://103.195.65.203:9481/stream/channelid/750990507?ticket=6C912C88B1186EBF7932B18B44325DA50EEC0CE0&profile=pass
+#EXTINF:0,ANTV HD
+http://103.195.65.203:9481/stream/channelid/150170875?ticket=111B7E081624036B98E92C586FA2359DCA7FFAF2&profile=pass
+#EXTINF:0,TVONE HD
+http://103.195.65.203:9481/stream/channelid/1848138030?ticket=BC5105C6D37978F4D3448233C8568F9034361392&profile=pass
+#EXTINF:0,VTV HD
+http://103.195.65.203:9481/stream/channelid/1487592807?ticket=0F58F2DBB2C81A769529CC9E2259EC7C0CF5B7F5&profile=pass
+#EXTINF:0,NET TV
+http://103.195.65.203:9481/stream/channelid/1912355624?ticket=2D2AD0C02243674847B16CD9F681B02D21814D4D&profile=pass
+#EXTINF:0,NET TV HD
+http://103.195.65.203:9481/stream/channelid/1254084264?ticket=2A44638010452BC0130598875F5DC960AA9B768D&profile=pass
+#EXTINF:0,iNEWS
+http://103.195.65.203:9481/stream/channelid/1653782149?ticket=74A4438F8274CA8FC77A69488388F8D4B22F5FA0&profile=pass
+#EXTINF:0,TVRI Nasional
+http://103.195.65.203:9481/stream/channelid/344921488?ticket=5CC6E553F9DE15216357FF046BB79B5DB3BA67BB&profile=pass
+#EXTINF:0,TVRI SPORT
+http://103.195.65.203:9481/stream/channelid/1622169260?ticket=35537CF4F81700F1A153E4038235CEB848B42D67&profile=pass
+#EXTINF:0,TVRI WORLD
+http://103.195.65.203:9481/stream/channelid/1836096440?ticket=D6F36356B292BD5F4A0A25502684F527A434B665&profile=pass
+#EXTINF:0,TV9
+http://103.195.65.203:9481/stream/channelid/972990194?ticket=8FADFDCE22D9E84A790EDFC987BF317CAA171B2F&profile=pass
+#EXTINF:0,SIN PO TV
+http://103.195.65.203:9481/stream/channelid/1731000227?ticket=9E220DFE9D2F8A87EC3F2D2E8EF8F022912D16AD&profile=pass
+#EXTINF:0,RTV HD
+http://103.195.65.203:9481/stream/channelid/198728576?ticket=037E1F287D230928CFB4613B1EEE59004CAE2CC0&profile=pass
+#EXTINF:0,PKTV
+http://103.195.65.203:9481/stream/channelid/1313981133?ticket=9A10DBFB2A193EE6BD2A6A94D04549D6B29F8732&profile=pass
+#EXTINF:0,Metro TV
+http://103.195.65.203:9481/stream/channelid/433364157?ticket=34AC8BB806330CBE4A81D0A2E6FDF717089FAE82&profile=pass
+#EXTINF:0,CNBC INDONESIA HD
+http://103.195.65.203:9481/stream/channelid/1001779470?ticket=64FF6F94E926CCBA5B0B2577E739D9FC314D4CB0&profile=pass
+#EXTINF:0,CNN INDONESIA HD
+http://103.195.65.203:9481/stream/channelid/1223557543?ticket=C828E764C92240E849C8541C7D3D89D8F46E8235&profile=pass
+#EXTINF:0,KOMPASTV HD
+http://103.195.65.203:9481/stream/channelid/270355248?ticket=E60634B0EE87A8E0BBC0570437D822E76ECF0FFB&profile=pass
+#EXTINF:0,MENTARITV HD
+http://103.195.65.203:9481/stream/channelid/779935658?ticket=1CCD72A62F04D9CF9C1DB71FAFE40C96F1504FE9&profile=pass
+#EXTINF:0,MOJI HD
+http://103.195.65.203:9481/stream/channelid/1959631406?ticket=26F1ACB5F7603491D572DE9310DEF1DA2A80CE40&profile=pass
+#EXTINF:0,Antara
+http://103.195.65.203:9481/stream/channelid/1693140250?ticket=9CA4500804E42806D80F03F3FA483229B3227332&profile=pass
+#EXTINF:0,Fight Sport
+http://103.195.65.203:9481/stream/channelid/398891976?ticket=F2A6F037B5B30782387AB7EFFF338FB43502FB6A&profile=pass
+#EXTINF:0,Warner
+http://103.195.65.203:9481/stream/channelid/1550496627?ticket=6B70A38A065FE52114DFBF42620D58F23F1FE7BE&profile=pass
+#EXTINF:0,HBO
+http://103.195.65.203:9481/stream/channelid/404276820?ticket=29C8C8DBED808288DBE1C28B4AB440892A677C56&profile=pass
+#EXTINF:0,HBO Hits
+http://103.195.65.203:9481/stream/channelid/1992679913?ticket=DEF846A741C96C96782D7D5E89319F1A0734ADB4&profile=pass
+#EXTINF:0,HBO Signature
+http://103.195.65.203:9481/stream/channelid/1349958559?ticket=26270B643A1C5A4764088F1BC3060F049D2E7515&profile=pass
+#EXTINF:0,HBO Family
+http://103.195.65.203:9481/stream/channelid/807701066?ticket=173ABBF47EF2C6F0EE50D4194DFD0C41C1E4C7C5&profile=pass
+#EXTINF:0,Cinemax
+http://103.195.65.203:9481/stream/channelid/672957585?ticket=63C10A6CE51F0C7AB98EC1830F8A93CD55F5A97D&profile=pass
+#EXTINF:0,Thrill
+http://103.195.65.203:9481/stream/channelid/190935395?ticket=C77B8A1DB0160F298ECA9E678E38F85B60506E9F&profile=pass
+#EXTINF:0,TVN Movie
+http://103.195.65.203:9481/stream/channelid/1097561188?ticket=A518644DA8C8F1953E7E9871BF398B1B1D64ABC5&profile=pass
+#EXTINF:0,Cinema World
+http://103.195.65.203:9481/stream/channelid/774842907?ticket=D8E085E7C01A3EE273452A17BF7041D643EDF8A0&profile=pass
+#EXTINF:0,IMC HD
+http://103.195.65.203:9481/stream/channelid/835899132?ticket=3C5AE5FA37A35B371E40905E422170CF67909F92&profile=pass
+#EXTINF:0,Paramount HD
+http://103.195.65.203:9481/stream/channelid/1559445262?ticket=FAADE536AAB941432B82B3781BDADA98BC3691C4&profile=pass
+#EXTINF:0,HITS MOVIE
+http://103.195.65.203:9481/stream/channelid/1491164810?ticket=3FD76ADF3C31C71E7C1D74F720268CECA70AA131&profile=pass
+#EXTINF:0,My Family
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1683800827?ticket=57CCDFCE033C9E3EACCEDC6507B013298A2D2A04&profile=pass
+#EXTINF:0,Bioskop Indonesia
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2140517565?ticket=949468A4C5255C1140CDC3BC6621EE1D7901359A&profile=pass
+#EXTINF:0,Celestial Movie
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/947888209?ticket=03864158292B549566871ED4D38E5B069BE92EAB&profile=pass
+#EXTINF:0,My Cinema Asia
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/944056621?ticket=2FE912F5C136E8A021E6B12AEFD0B8451488BFE2&profile=pass
+#EXTINF:0,Galaxy
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/184888436?ticket=C75D02942883D3029D16647F11F5E55155023A1D&profile=pass
+#EXTINF:0,Galaxy Movie Premium
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1561777786?ticket=2E87769E2F8261092DC5286B16CCB8A96DC35343&profile=pass
+#EXTINF:0,Z Bioskop
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1544525858?ticket=DD541A587597B815B2A15ADCAD7B78A08A902E5C&profile=pass
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/531140253?ticket=FD55AD5C7A6E82478E0E4840FB382B59A151EA3B&profile=pass
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2045057566?ticket=840254A98F1E7660E731C48033168ED81FB646DB&profile=pass
+#EXTINF:0,Sony One
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1437479149?ticket=D9DED7D109DF19A8AD73EB6212C7D769A9328979&profile=pass
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/777958670?ticket=E8DF375864E4361C9B8F74A2A1870FF6ED6B64AB&profile=pass
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1824550607?ticket=2FE7E0E814220EF9A691CDBC76B60B26E8E5F9FE&profile=pass
+#EXTINF:0,TVN HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1476291289?ticket=2C98AC463BC5C1A5B37861F2EAF826E21F47ED6F&profile=pass
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/576020923?ticket=75343C069391A908B91CE3CB961E3A24EBCF3709&profile=pass
+#EXTINF:0,History Channel
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2563582?ticket=3509D416285F3E496FA48F79C1832201820BFA36&profile=pass
+#EXTINF:0,TECH STORM
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/807144202?ticket=822785AF1F1B2BC28428F05914C238B92495D2CC&profile=pass
+#EXTINF:0,HITS
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/696975643?ticket=6B32EBA68107431DC5C240E37CCD63928AF703D6&profile=pass
+#EXTINF:0,Crime & Investigation
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2070777858?ticket=4CF6C606FFB7809565F3DF88F276AF6698A94308&profile=pass
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1751149199?ticket=5D41FD512F0D4A6221608BDB9F9C531A57E44401&profile=pass
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1826622254?ticket=42E1AA688838A6F0DD63F4A27F74B5C727EDAC75&profile=pass
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1582459547?ticket=E2CD54618AB255988DC86D4130AF7C2F89713758&profile=pass
+#EXTINF:0,Dunia Lain
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/341425959?ticket=0A66201FDFBF701D16BC78AE1A24742F33DED3C2&profile=pass
+#EXTINF:0,Channel [V]
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/389159090?ticket=0223F7D924E2A027DAD1EB9689F696C313F03A10&profile=pass
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1992651715?ticket=85E5C9E718B8AD770765277AC3A97CD4F779B30F&profile=pass
+#EXTINF:0,MTV Live
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1279934608?ticket=D95605801FCC34F1E1953E0921C43FBC07F92C92&profile=pass
+#EXTINF:0,HBO Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/509739107?ticket=E8A5D9BAA99B766F9ABB2D6FE071427953EDE85A&profile=pass
+#EXTINF:0,HBO Signature Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/579600852?ticket=870E70E1449533F528793C3AA84EE47BD517FA1D&profile=pass
+#EXTINF:0,HBO Hits Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1831650989?ticket=D7CE066ACBEDAA7691B38ACB295AF38F8DB6CE01&profile=pass
+#EXTINF:0,HBO Family Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1505307444?ticket=4F1B20EA1D2F46913204333C80E664F97C44ACFA&profile=pass
+#EXTINF:0,Cinemax Dolby HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/784844871?ticket=F765832186BBA9626101130520ED86E821DCB03C&profile=pass
+#EXTINF:0,My Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1421215239?ticket=EC4FA0D62173B9C6E9B130420ECC69289C32945F&profile=pass
+#EXTINF:0,My Cinema Asia HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/962651135?ticket=D8CD52A1CBCEEADAA3FB6F784217BF5984BDDCE3&profile=pass
+#EXTINF:0,Rock Action HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1297396253?ticket=C3D02CBEA6205FAD36C61D91709B655206E563C3&profile=pass
+#EXTINF:0,Rock Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1529737638?ticket=5A777FA4FE06BDEA1BB661CBF8B20A9ABCF5257F&profile=pass
+#EXTINF:0,TVN Movies HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/953372893?ticket=8CBD76562FEA8F33BF219B389F2BFB7E5C4D295D&profile=pass
+#EXTINF:0,Flik HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1107549985?ticket=B7775EB2AE5835A1DB46EC6AD6D23D84012AFD56&profile=pass
+#EXTINF:0,My Family Channel HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1552834394?ticket=23C6FE674D7AE66905A7B0BB300FE10C47277275&profile=pass
+#EXTINF:0,Champions TV1 HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/514602870?ticket=AFFB40AFEB7986D2202CB034192BCD20926B5168&profile=pass
+#EXTINF:0,Champions TV2 HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1673181221?ticket=00ACF38EE8452DE4C560F08D05E73EED1CC3FF8B&profile=pass
+#EXTINF:0,SPO TV
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/374463231?ticket=B8449A3F0DB0A1DF0B4028162C1AB9083A70AFD1&profile=pass
+#EXTINF:0,SPO TV2
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1894419107?ticket=4FF2C078E45A6A7172B013B37FB4C22D02B74848&profile=pass
+#EXTINF:0,W sport
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/2056147724?ticket=70E21A44C8F76E4E21634A685AB3868F5B9F8ED1&profile=pass
+#EXTINF:0,Horizon Sport
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/117198118?ticket=3BFDB42325503726FCCBA7B5AB783C7A4F18652A&profile=pass
+#EXTINF:0,Fight Sports HD
+#EXTVLCOPT:network-caching=1000
+http://103.195.65.203:9481/stream/channelid/1595973397?ticket=25E1BADA444DBBB8F78CC4EC66E351AC616E6659&profile=pass
+#EXTINF:0 type="stream" channelId="-1", EIGA
+https://45.58.2.147/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", JIDAIGEKI
+https://45.58.2.147/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", wowow
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", wowow
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", wowow
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", TOEI
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 type="stream" channelId="-1", FILM CHINA
+https://github.com/butifarra22/live/blob/main/311022
+#EXTINF:0 type="stream" channelId="-1", FRESH CINEMA
+http://ott.watch/stream/6HJTKUH3Y1/423.m3u8
+#EXTINF:0 type="stream" channelId="3660", MCE
+http://210.210.155.35:80/uq2663/h/h208/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIASAT
+http://80.95.70.240:9981/stream/channelid/348760054?profile=pass
+#EXTINF:0 type="stream" channelId="-1", M1
+http://80.95.70.240:9981/stream/channelid/1000017779?profile=pass
+#EXTINF:0 type="stream" channelId="-1", M2
+http://80.95.70.240:9981/stream/channelid/463727669?profile=pass
+#EXTINF:0 type="stream" channelId="-1", DUNA
+http://80.95.70.240:9981/stream/channelid/823054504?profile=pass
+#EXTINF:0 type="stream" channelId="-1", M5
+http://80.95.70.240:9981/stream/channelid/524439803?profile=pass
+#EXTINF:0 type="stream" channelId="-1", TV2
+http://80.95.70.240:9981/stream/channelid/690335714?profile=pass
+#EXTINF:0 type="stream" channelId="-1", VIASAT3
+http://80.95.70.240:9981/stream/channelid/310023545?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MOZI
+http://80.95.70.240:9981/stream/channelid/1376592034?profile=pass
+#EXTINF:0 type="stream" channelId="-1", MOZIVERSUM
+http://80.95.70.240:9981/stream/channelid/885271637?profile=pass
+#EXTINF:0 type="stream" channelId="-1", FILMPLUS
+http://80.95.70.240:9981/stream/channelid/792047329?profile=pass
+#EXTINF:0 type="stream" channelId="-1", AMC
+http://80.95.70.240:9981/stream/channelid/681221088?profile=pass
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT
+http://80.95.70.240:9981/stream/channelid/240009069?profile=pass
+#EXTINF:0 type="stream" channelId="-1", FILM CAFE
+http://80.95.70.240:9981/stream/channelid/724649224?profile=pass
+#EXTINF:0 type="stream" channelId="-1", FILM4
+http://80.95.70.240:9981/stream/channelid/1528525002?profile=pass
+#EXTINF:0 type="stream" channelId="-1", PRIME
+http://80.95.70.240:9981/stream/channelid/1966045431?profile=pass
+#EXTINF:0 type="stream" channelId="-1", RTL GOLD
+http://80.95.70.240:9981/stream/channelid/98965958?profile=pass
+#EXTINF:0 type="stream" channelId="-1", VIASAT6
+http://80.95.70.240:9981/stream/channelid/1055682706?profile=pass
+#EXTINF:0 type="stream" channelId="-1", EPIC DRAMA
+http://80.95.70.240:9981/stream/channelid/1587706030?profile=pass
