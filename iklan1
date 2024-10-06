@@ -30,7 +30,7 @@ http://103.156.141.151:4567/stream/channelid/995376651?profile=pass
 http://103.156.141.151:4567/stream/channelid/1145381301?profile=pass
 #EXTINF:0 type="stream" channelId="-1", JTV Surabaya
 http://103.156.141.151:4567/stream/channelid/66077942?profile=pass
-##EXTINF:0 type="stream" channelId="-1", Nusantara TV
+#EXTINF:0 type="stream" channelId="-1", Nusantara TV
 http://103.156.141.151:4567/stream/channelid/54965941?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Berita Satu
 http://103.156.141.151:4567/stream/channelid/1562803857?profile=pass
@@ -145,41 +145,38 @@ http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Citra Dangdut
 http://103.156.141.151:4567/stream/channelid/892980275?profile=pass
 #EXTINF:0 type="stream" channelId="-1", U Channel
-
-..::::::::::::::: CHANNEL 2::::::::::::..
-
 http://103.156.141.151:4567/stream/channelid/2016791628?profile=pass
-#EXTINF:0,Sony One
+#EXTINF:0 type="stream" channelId="-1",Sony One
 http://103.156.141.151:4567/stream/channelid/45205185?profile=pass
-#EXTINF:0,Arirang
+#EXTINF:0 type="stream" channelId="-1",Arirang
 http://103.156.141.151:4567/stream/channelid/188158551?profile=pass
-#EXTINF:0,CCTV4
+#EXTINF:0 type="stream" channelId="-1",CCTV4
 http://103.156.141.151:4567/stream/channelid/529840513?profile=pass
-#EXTINF:0,Sony Gem
+#EXTINF:0 type="stream" channelId="-1",Sony Gem
 http://103.156.141.151:4567/stream/channelid/652599084?profile=pass
-#EXTINF:0,K+
+#EXTINF:0 type="stream" channelId="-1",K+
 http://103.156.141.151:4567/stream/channelid/1383595813?profile=pass
-#EXTINF:0,TVN Movie
+#EXTINF:0 type="stream" channelId="-1",TVN Movie
 http://103.156.141.151:4567/stream/channelid/1498652973?profile=pass
-#EXTINF:0,Fox life
+#EXTINF:0 type="stream" channelId="-1",Fox life
 http://103.156.141.151:4567/stream/channelid/1564064339?profile=pass
-#EXTINF:0,TVN
+#EXTINF:0 type="stream" channelId="-1",TVN
 http://103.156.141.151:4567/stream/channelid/1630527068?profile=pass
-#EXTINF:0,Fox
+#EXTINF:0 type="stream" channelId="-1",Fox
 http://103.156.141.151:4567/stream/channelid/1829325744?profile=pass
-#EXTINF:0,Lifetime
+#EXTINF:0 type="stream" channelId="-1",Lifetime
 http://103.156.141.151:4567/stream/channelid/2069847605?profile=pass
-#EXTINF:0,Fox Crime
+#EXTINF:0 type="stream" channelId="-1",Fox Crime
 http://103.156.141.151:4567/stream/channelid/2089810787?profile=pass
-#EXTINF:0,VOLI TV
+#EXTINF:0 type="stream" channelId="-1",VOLI TV
 http://103.156.141.151:4567/stream/channelid/367213620?profile=pass
-#EXTINF:0,CHAMPION TV1
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1
 http://103.156.141.151:4567/stream/channelid/1733758919?profile=pass
-#EXTINF:0,CHAMPION TV2
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2
 http://103.156.141.151:4567/stream/channelid/1279723616?profile=pass
-#EXTINF:0,CHAMPION TV3
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV3
 http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
-#EXTINF:0,CHAMPION TV5
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV5
 http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
 #EXTINF:0,CHAMPION TV6
 http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
@@ -236,9 +233,6 @@ http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
 #EXTINF:0,Tembang Kenangan
 http://103.156.141.151:4567/stream/channelid/1466790126?profile=pass
 #EXTINF:0,RETRO TV
-
-..::::::::::::::: CHANNEL 3::::::::::::..
-
 http://103.156.141.151:4567/stream/channelid/730980447?profile=pass
 #EXTINF:0,UEFA EURO 2024 B
 http://103.156.141.151:4567/stream/channelid/2094008857?profile=pass
@@ -264,63 +258,63 @@ http://103.156.141.151:4567/stream/channelid/700839575?profile=pass
 http://103.156.141.151:4567/stream/channelid/1151532975?profile=pass
 #EXTINF:0,CONMEBOL COPA AMERICA 2024 B
 http://103.156.141.151:4567/stream/channelid/1872649153?profile=pass
-#EXTINF:0,Astro Super Sport 1 
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 1 
 http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
-#EXTINF:0,Astro Super Sport 2 
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 2 
 http://103.156.141.151:4567/stream/channelid/102544476?profile=pass
-#EXTINF:0,Astro Super Sport 3 
+#EXTINF:0 type="stream" channelId="-1",Astro Super Sport 3 
 http://103.156.141.151:4567/stream/channelid/1439999769?profile=pass
 #EXTINF:0,Astro Super Sport 4 
 http://103.156.141.151:4567/stream/channelid/183208213?profile=pass
-#EXTINF:0,Spo TV 1 b
+#EXTINF:0 type="stream" channelId="-1",Spo TV 1 b
 http://103.156.141.151:4567/stream/channelid/146021844?profile=pass
-#EXTINF:0,Spo TV 2 b
+#EXTINF:0 type="stream" channelId="-1",Spo TV 2 b
 http://103.156.141.151:4567/stream/channelid/560589528?profile=pass
-#EXTINF:0,SPORT TV 1ⓧ FHD
+#EXTINF:0 type="stream" channelId="-1",SPORT TV 1ⓧ FHD
 http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
-#EXTINF:0,SPORT TV 2ⓧ FHD
+#EXTINF:0 type="stream" channelId="-1",SPORT TV 2ⓧ FHD
 http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
-#EXTINF:0,CHAMPION TV1 CBN
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1 CBN
 http://103.156.141.151:4567/stream/channelid/993251844?profile=pass
-#EXTINF:0,CHAMPION TV2 CBN
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2 CBN
 http://103.156.141.151:4567/stream/channelid/555633637?profile=pass
-#EXTINF:0,ASTRO OLYMPICS-1
+#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-1
 http://103.156.141.151:4567/stream/channelid/1352889878?profile=pass
-#EXTINF:0,ASTRO OLYMPICS-2
+#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-2
 http://103.156.141.151:4567/stream/channelid/87372130?profile=pass
-#EXTINF:0,ASTRO OLYMPICS-3
+#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-3
 http://103.156.141.151:4567/stream/channelid/186320927?profile=pass
-#EXTINF:0,ASTRO OLYMPICS-4
+#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-4
 http://103.156.141.151:4567/stream/channelid/1990488970?profile=pass
-#EXTINF:0,ASTRO OLYMPICS-5
+#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-5
 http://103.156.141.151:4567/stream/channelid/1605503012?profile=pass
-#EXTINF:0,Eurosport 1 FHD
+#EXTINF:0 type="stream" channelId="-1",Eurosport 1 FHD
 http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
-#EXTINF:0,Eurosport 2 FHD
+#EXTINF:0 type="stream" channelId="-1",Eurosport 2 FHD
 http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
 #EXTINF:0,DSTV: Supersport Premiere League
 http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
 #EXTINF:0,DSTV: SuperSport Maximo
 http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
-#EXTINF:0,DSTV: SuperSport LaLiga
+#EXTINF:0 type="stream" channelId="-1",DSTV: SuperSport LaLiga
 http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
-#EXTINF:0,USA Network "EPL"
+#EXTINF:0 type="stream" channelId="-1",USA Network "EPL"
 http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
-#EXTINF:0,Astro Arena 1
+#EXTINF:0 type="stream" channelId="-1",Astro Arena 1
 http://103.156.141.151:4567/stream/channelid/1052702708?profile=pass
-#EXTINF:0,Asrtro Arena 2
+#EXTINF:0 type="stream" channelId="-1",Asrtro Arena 2
 http://103.156.141.151:4567/stream/channelid/1461418236?profile=pass
-#EXTINF:0,Sportv 1 FHD
+#EXTINF:0 type="stream" channelId="-1",Sportv 1 FHD
 http://103.156.141.151:4567/stream/channelid/1282709158?profile=pass
-#EXTINF:0,Sportv 2 FHD
+#EXTINF:0 type="stream" channelId="-1",Sportv 2 FHD
 http://103.156.141.151:4567/stream/channelid/1702321155?profile=pass
-#EXTINF:0,Sportv 3 FHD
+#EXTINF:0 type="stream" channelId="-1",Sportv 3 FHD
 http://103.156.141.151:4567/stream/channelid/61698339?profile=pass
-#EXTINF:0,USA Olympic Channel
+#EXTINF:0 type="stream" channelId="-1",USA Olympic Channel
 http://103.156.141.151:4567/stream/channelid/831724058?profile=pass
-#EXTINF:0,AU Olympics_Channel
+#EXTINF:0 type="stream" channelId="-1",AU Olympics_Channel
 http://103.156.141.151:4567/stream/channelid/747309905?profile=pass
-#EXTINF:0,9XM Music
+#EXTINF:0 type="stream" channelId="-1",9XM Music
 http://103.156.141.151:4567/stream/channelid/74784163?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Champions TV5 HD
 http://103.195.65.203:4381/stream/channelid/786472822?profile=pass
