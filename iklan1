@@ -1,17 +1,17 @@
 #EXTM3
-#EXTINF:0 type="stream" channelId="-1", Indosiar,group-title="Indonesia Channels",RCTI HD
+#EXTINF:0 type="stream" channelId="-1", Indosiar,group-title="CH TIARA¹",INDOSIAR
 http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
-#EXTINF:0 type="stream" channelId="-1", SCTV
+#EXTINF:0 type="stream" channelId="-1", SCTV, group-title="CH TIARA¹",SCTV
 http://103.156.141.151:4567/stream/channelid/1680651630?profile=pass
-#EXTINF:0 type="stream" channelId="-1", SCTV HD
+#EXTINF:0 type="stream" channelId="-1", SCTV HD, group-title="CH TIARA¹",SCTV HD
 http://103.156.141.151:4567/stream/channelid/112855664?profile=pass
-#EXTINF:0 type="stream" channelId="-1", ANTV
+#EXTINF:0 type="stream" channelId="-1", ANTV, group-title="CH TIARA¹",ANTV
 http://103.156.141.151:4567/stream/channelid/1657698380?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Trans TV
+#EXTINF:0 type="stream" channelId="-1", Trans TV, group-title="CH TIARA¹",TRANSTV
 http://103.156.141.151:4567/stream/channelid/1137678123?profile=pass
-#EXTINF:0 type="stream" channelId="-1", TransTV HD
+#EXTINF:0 type="stream" channelId="-1", TransTV HD, group-title="CH TIARA¹",TRANTV HD
 http://103.156.141.151:4567/stream/channelid/1769979321?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Trans 7
+#EXTINF:0 type="stream" channelId="-1", Trans 7, group-title="CH TIARA¹",TRANS 7
 http://103.156.141.151:4567/stream/channelid/578595906?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Trans7 HD
 http://103.156.141.151:4567/stream/channelid/1353003054?profile=pass
