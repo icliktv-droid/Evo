@@ -1,6 +1,5 @@
-#EXTM3U
-..::::::::::::::: CHANNEL 1::::::::::::..
-#EXTINF:0 type="stream" channelId="-1", Indosiar
+#EXTM3
+#EXTINF:0 type="stream" channelId="-1", Indosiar,group-title="Indonesia Channels",RCTI HD
 http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
 #EXTINF:0 type="stream" channelId="-1", SCTV
 http://103.156.141.151:4567/stream/channelid/1680651630?profile=pass
@@ -836,7 +835,7 @@ http://103.195.65.203:9481/stream/channelid/1297396253?ticket=C3D02CBEA6205FAD36
 #EXTINF:0,Rock Entertainment HD
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/1529737638?ticket=5A777FA4FE06BDEA1BB661CBF8B20A9ABCF5257F&profile=pass
-#EXTINF:0,TVN Movies HD
+#EXTINF:0,TVN Movies HD,
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/953372893?ticket=8CBD76562FEA8F33BF219B389F2BFB7E5C4D295D&profile=pass
 #EXTINF:0,Flik HD
