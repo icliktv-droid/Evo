@@ -1,4 +1,5 @@
 #EXTM3U
+..::::::::::::::: CHANNEL 1::::::::::::..
 #EXTINF:0 type="stream" channelId="-1", Indosiar
 http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
 #EXTINF:0 type="stream" channelId="-1", SCTV
@@ -144,6 +145,9 @@ http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Citra Dangdut
 http://103.156.141.151:4567/stream/channelid/892980275?profile=pass
 #EXTINF:0 type="stream" channelId="-1", U Channel
+
+..::::::::::::::: CHANNEL 2::::::::::::..
+
 http://103.156.141.151:4567/stream/channelid/2016791628?profile=pass
 #EXTINF:0,Sony One
 http://103.156.141.151:4567/stream/channelid/45205185?profile=pass
@@ -232,6 +236,9 @@ http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
 #EXTINF:0,Tembang Kenangan
 http://103.156.141.151:4567/stream/channelid/1466790126?profile=pass
 #EXTINF:0,RETRO TV
+
+..::::::::::::::: CHANNEL 3::::::::::::..
+
 http://103.156.141.151:4567/stream/channelid/730980447?profile=pass
 #EXTINF:0,UEFA EURO 2024 B
 http://103.156.141.151:4567/stream/channelid/2094008857?profile=pass
