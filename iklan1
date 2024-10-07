@@ -9,128 +9,128 @@
 CH TIARA™
 //========================================================================
 #EXTM3
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXb9_gCEymgRCBeg9UU3xFnUfwm2QUlewCH1OqeA1We-rFBYh93Xae_8qc0QwG-fhxrNpuf4_qxL7b6bPZhd_gEtszqpXmc9i-t22UYx97II4L76_qAiSWrmd7Q9_tH42XewcOvHjE11T4tM3R-r1Z0l_MMOb6XyKNx39z-nqPmZYQ9oXNb5CB4Kj_=s720",SOCCERCHANNEL
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgXb9_gCEymgRCBeg9UU3xFnUfwm2QUlewCH1OqeA1We-rFBYh93Xae_8qc0QwG-fhxrNpuf4_qxL7b6bPZhd_gEtszqpXmc9i-t22UYx97II4L76_qAiSWrmd7Q9_tH42XewcOvHjE11T4tM3R-r1Z0l_MMOb6XyKNx39z-nqPmZYQ9oXNb5CB4Kj_=s720",SOCCERCHANNEL
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97aWZrhgAEl08f7Sc6oZCpW1rJmvoaEzomk8Jte7X8sDW2tg01KLW2FE&s=10",SPOTV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97aWZrhgAEl08f7Sc6oZCpW1rJmvoaEzomk8Jte7X8sDW2tg01KLW2FE&s=10",SPOTV
 http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiMXGcntM9tUmrITpDc94gHawh-jTGXS8-te2GlYsT1L9xgh2GxgNzU6w&s=10",SPOTV 2
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiMXGcntM9tUmrITpDc94gHawh-jTGXS8-te2GlYsT1L9xgh2GxgNzU6w&s=10",SPOTV 2
 http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",STARSPORT¹
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",STARSPORT¹
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",STARSPORT2
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",STARSPORT2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",SUPERSPORT PREMIERE LEAGUE
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",SUPERSPORT PREMIERE LEAGUE
 http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",CHAMPIONTV3
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",CHAMPIONTV3
 http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",CHAMPIONTV5
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",CHAMPIONTV5
 http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",CHAMPIONTV6
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",CHAMPIONTV6
 http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",SUPERPORT MAXIMO
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",SUPERPORT MAXIMO
 http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",SUPERSPORT LALIGA
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",SUPERSPORT LALIGA
 http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",USA EPL
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",USA EPL
 http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",SPORT TV 1ⓧ FHD
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",SPORT TV 1ⓧ FHD
 http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",SPORT TV 2ⓧ FHD
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",SPORT TV 2ⓧ FHD
 http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Eurosport 1 FHD
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Eurosport 1 FHD
 http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Eurosport 2 FHD
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Eurosport 2 FHD
 http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
 https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
 https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
 https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
 https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
 https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
 https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
 https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
 https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
 https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
 ::::::::DSTV TIARA
 
 Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport LaLiga 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217830 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Motorsport 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Motorsport 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217831
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Rugby 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Rugby 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217832 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Tennis 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Tennis 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217833 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Variety 1 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 1 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217834 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Variety 2 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 2 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217835 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Variety 3 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 3 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217836 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="DSTV||SUPERSPORT", SuperSport Variety 4 
+#EXTINF:-1  tvg-logo="BENE KOSONG SEK" group-title="DSTV||SUPERSPORT", SuperSport Variety 4 
 http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/217837
 
 
