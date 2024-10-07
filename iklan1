@@ -60,9 +60,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
 #EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgiMXGcntM9tUmrITpDc94gHawh-jTGXS8-te2GlYsT1L9xgh2GxgNzU6w&s=10",SPOTV 2
 http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
-#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",STARSPORT¹
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",SPORTSTAR¹
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",STARSPORT2
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",SPORTSTAR²
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 #EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
