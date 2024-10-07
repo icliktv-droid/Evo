@@ -1,4 +1,49 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 
 
@@ -254,35 +299,35 @@ http://103.156.141.151:4567/stream/channelid/1137678123?profile=pass
 http://103.156.141.151:4567/stream/channelid/1769979321?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Trans 7, group-title="CH TIARA¹",TRANS 7
 http://103.156.141.151:4567/stream/channelid/578595906?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Trans7 HD
+#EXTINF:0 type="stream" channelId="-1", Trans7 HD, group-title="CH TIARA¹",TRAN7 HD
 http://103.156.141.151:4567/stream/channelid/1353003054?profile=pass
-#EXTINF:0 type="stream" channelId="-1", TV One
+#EXTINF:0 type="stream" channelId="-1", TV One, group-title="CH TIARA¹",TV ONE
 http://103.156.141.151:4567/stream/channelid/220042554?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Metro TV
+#EXTINF:0 type="stream" channelId="-1", Metro TV, group-title="CH TIARA¹",METRO TV
 http://103.156.141.151:4567/stream/channelid/2021368551?profile=pass
-#EXTINF:0 type="stream" channelId="-1", METRO TV HD
+#EXTINF:0 type="stream" channelId="-1", METRO TV HD, group-title="CH TIARA¹",METROTV HD
 http://103.156.141.151:4567/stream/channelid/605494049?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Net TV
+#EXTINF:0 type="stream" channelId="-1", Net TV, group-title="CH TIARA¹",NET TV
 http://103.156.141.151:4567/stream/channelid/666401500?profile=pass
-#EXTINF:0 type="stream" channelId="-1", RTV
+#EXTINF:0 type="stream" channelId="-1", RTV, group-title="CH TIARA¹",RTV
 http://103.156.141.151:4567/stream/channelid/995376651?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Net TV HD
+#EXTINF:0 type="stream" channelId="-1", Net TV HD, group-title="CH TIARA¹",NETTV HD
 http://103.156.141.151:4567/stream/channelid/1145381301?profile=pass
-#EXTINF:0 type="stream" channelId="-1", JTV Surabaya
+#EXTINF:0 type="stream" channelId="-1", JTV Surabaya, group-title="CH TIARA¹",JTV
 http://103.156.141.151:4567/stream/channelid/66077942?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Nusantara TV
+#EXTINF:0 type="stream" channelId="-1", Nusantara TV, group-title="CH TIARA¹",NUSANTARATV
 http://103.156.141.151:4567/stream/channelid/54965941?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Berita Satu
+#EXTINF:0 type="stream" channelId="-1", Berita Satu, group-title="CH TIARA¹",BERITA SATU
 http://103.156.141.151:4567/stream/channelid/1562803857?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Kompas TV
+#EXTINF:0 type="stream" channelId="-1", Kompas TV, group-title="CH TIARA¹",KOMPAS TV
 http://103.156.141.151:4567/stream/channelid/385541231?profile=pass
-#EXTINF:0 type="stream" channelId="-1", TVRI
+#EXTINF:0 type="stream" channelId="-1", TVRI, group-title="CH TIARA¹",TVRI
 http://103.156.141.151:4567/stream/channelid/1955896278?profile=pass
-#EXTINF:0 type="stream" channelId="-1", CNBC Indonesia HD
+#EXTINF:0 type="stream" channelId="-1", CNBC Indonesia HD, group-title="CH TIARA¹",CNBC
 http://103.156.141.151:4567/stream/channelid/1892942772?profile=pass
-#EXTINF:0 type="stream" channelId="-1", CNN Indonesia HD
+#EXTINF:0 type="stream" channelId="-1", CNN Indonesia HD, group-title="CH TIARA¹",CNBC HD
 http://103.156.141.151:4567/stream/channelid/865777007?profile=pass
-#EXTINF:0 type="stream" channelId="-1", SEA TODAY
+#EXTINF:0 type="stream" channelId="-1", SEA TODAY, group-title="CH TIARA¹",SEA TODAY
 http://103.156.141.151:4567/stream/channelid/782705042?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Daai TV
 http://103.156.141.151:4567/stream/channelid/322482914?profile=pass
