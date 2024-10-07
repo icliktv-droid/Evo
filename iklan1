@@ -21,21 +21,20 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",SUPERSPORT PREMIERE LEAGUE
+http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",CHAMPIONTV3
 http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",CHAMPIONTV5
 http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",CHAMPIONTV6
 http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
-https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",SUPERPORT MAXIMO
+http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",SUPERSPORT LALIGA
+http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",USA EPL
+http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
