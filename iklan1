@@ -15,11 +15,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
 http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",STARSPORT¹
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_102.png",STARSPORT¹
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",STARSPORT2
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/channel_98.png",STARSPORT2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",PERSIJA TV
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://raw.githubusercontent.com/icliktv-droid/Evo/refs/heads/main/images%20(1).jpeg",PERSIJA TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
