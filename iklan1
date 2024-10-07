@@ -35,14 +35,14 @@ http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
 http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_imc_small.png",USA EPL
 http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
-https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
-https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",SPORT TV 1ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",SPORT TV 2ⓧ FHD
+http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Eurosport 1 FHD
+http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
+#EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Eurosport 2 FHD
+http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 #EXTINF:-1 group-title="indihome" "  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
