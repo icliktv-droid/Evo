@@ -474,30 +474,7 @@ http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
 http://103.156.141.151:4567/stream/channelid/1466790126?profile=pass
 #EXTINF:0,RETRO TV
 http://103.156.141.151:4567/stream/channelid/730980447?profile=pass
-#EXTINF:0,UEFA EURO 2024 B
-http://103.156.141.151:4567/stream/channelid/2094008857?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(2)
-http://103.156.141.151:4567/stream/channelid/1917306454?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(3)
-http://103.156.141.151:4567/stream/channelid/1365409067?profile=pass
-#EXTINF:0,UEFA EURO 2024 B
-http://103.156.141.151:4567/stream/channelid/1077351869?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(3)
-http://103.156.141.151:4567/stream/channelid/949207879?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(2)
-http://103.156.141.151:4567/stream/channelid/596646702?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(4)
-http://103.156.141.151:4567/stream/channelid/245663639?profile=pass
-#EXTINF:0,UEFA EURO 2024 B(4)
-http://103.156.141.151:4567/stream/channelid/1732422292?profile=pass
-#EXTINF:0,CONMEBOL COPA AMERICA 2024 B
-http://103.156.141.151:4567/stream/channelid/342183394?profile=pass
-#EXTINF:0,CONMEBOL COPA AMERICA 2024 B(2)
-http://103.156.141.151:4567/stream/channelid/700839575?profile=pass
-#EXTINF:0,CONMEBOL COPA AMERICA 2024 B(2)
-http://103.156.141.151:4567/stream/channelid/1151532975?profile=pass
-#EXTINF:0,CONMEBOL COPA AMERICA 2024 B
-http://103.156.141.151:4567/stream/channelid/1872649153?profile=pass
+
 #EXTINF:0 type="stream" channelId="-1",Astro Super Sport 1 
 http://103.156.141.151:4567/stream/channelid/1140724126?profile=pass
 #EXTINF:0 type="stream" channelId="-1",Astro Super Sport 2 
@@ -514,20 +491,6 @@ http://103.156.141.151:4567/stream/channelid/560589528?profile=pass
 http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
 #EXTINF:0 type="stream" channelId="-1",SPORT TV 2ⓧ FHD
 http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1 CBN
-http://103.156.141.151:4567/stream/channelid/993251844?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2 CBN
-http://103.156.141.151:4567/stream/channelid/555633637?profile=pass
-#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-1
-http://103.156.141.151:4567/stream/channelid/1352889878?profile=pass
-#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-2
-http://103.156.141.151:4567/stream/channelid/87372130?profile=pass
-#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-3
-http://103.156.141.151:4567/stream/channelid/186320927?profile=pass
-#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-4
-http://103.156.141.151:4567/stream/channelid/1990488970?profile=pass
-#EXTINF:0 type="stream" channelId="-1",ASTRO OLYMPICS-5
-http://103.156.141.151:4567/stream/channelid/1605503012?profile=pass
 #EXTINF:0 type="stream" channelId="-1",Eurosport 1 FHD
 http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
 #EXTINF:0 type="stream" channelId="-1",Eurosport 2 FHD
@@ -775,35 +738,7 @@ http://103.195.65.203:4481/stream/channelid/1223557543?ticket=1E6746E09E33BDD408
 #EXTINF:0,KOMPASTV HD
 http://103.195.65.203:4481/stream/channelid/270355248?ticket=D102B64EFCF81EFFB617FE1EE5F258BF304CF951&profile=pass
 #EXTINF:0,MENTARITV HD
-http://103.195.65.203:4481/stream/channelid/779935658?ticket=6D2DA090DBF087E6A972CEB9253B2ECE273F3E54&profile=pass
-#EXTINF:0,MOJI HD
-http://103.195.65.203:4481/stream/channelid/1959631406?ticket=B22B91AB0F0F3EF3F54B9C29D2965C3CD1420F79&profile=pass
-#EXTINF:0,Antara
-http://103.195.65.203:4481/stream/channelid/1693140250?ticket=FE940B4F9C51DB0BE608468CA38599F9F61BE45E&profile=pass
-#EXTINF:0,Fight Sport
-http://103.195.65.203:4481/stream/channelid/398891976?ticket=D3E2B2935A344B70AA6872CCE528B7BF517765B9&profile=pass
-#EXTINF:0,Warner
-http://103.195.65.203:4481/stream/channelid/1550496627?ticket=56E3CBD7E8F99403E7D5291A69E85C31F5A216B2&profile=pass
-#EXTINF:0,HBO
-http://103.195.65.203:4481/stream/channelid/404276820?ticket=6E8E4C774EA76946388F13C07B8A23BA8182FA7A&profile=pass
-#EXTINF:0,HBO Hits
-http://103.195.65.203:4481/stream/channelid/1992679913?ticket=9497DC0A6BCBB1E45DAD9C9CB4DBEE77D9857C61&profile=pass
-#EXTINF:0,HBO Signature
-http://103.195.65.203:4481/stream/channelid/1349958559?ticket=3AF0E5DB2B89749D4649D4656E816416A09547AD&profile=pass
-#EXTINF:0,HBO Family
-http://103.195.65.203:4481/stream/channelid/807701066?ticket=2E8FA6204CFE4CEB4BE996E6BAA3F4990A183AAF&profile=pass
-#EXTINF:0,Cinemax
-http://103.195.65.203:4481/stream/channelid/672957585?ticket=612C80D9E86DE78913CFF1371A3F69D403E64F1B&profile=pass
-#EXTINF:0,Thrill
-http://103.195.65.203:4481/stream/channelid/190935395?ticket=11701DEEB509B4405222CDE11BC5D739BC961F2A&profile=pass
-#EXTINF:0,TVN Movie
-http://103.195.65.203:4481/stream/channelid/1097561188?ticket=C4325EC18B9AD64F5A28C11C2075A0D055554FBF&profile=pass
-#EXTINF:0,Cinema World
-http://103.195.65.203:4481/stream/channelid/774842907?ticket=29A42B1EEBD1D13D1B3D78B79135B006361B4F3F&profile=pass
-#EXTINF:0,IMC HD
-http://103.195.65.203:4481/stream/channelid/835899132?ticket=06B0B057FDDA4D181140B7F5E0C1045D8C839ACE&profile=pass
-#EXTINF:0,Paramount HD
-http://103.195.65.203:4481/stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
+stream/channelid/1559445262?ticket=E686FE15D94A28CF81B983B49C7F43CAB9E2A28B&profile=pass
 #EXTINF:0,HITS MOVIE
 http://103.195.65.203:4481/stream/channelid/1491164810?ticket=53FBD6B6109B7330A4ECECA8733B1FDFBF24681D&profile=pass
 #EXTINF:0,My Family
@@ -1055,52 +990,3 @@ http://103.195.65.203:9481/stream/channelid/509739107?ticket=E8A5D9BAA99B766F9AB
 #EXTINF:0,HBO Signature Dolby HD
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/579600852?ticket=870E70E1449533F528793C3AA84EE47BD517FA1D&profile=pass
-#EXTINF:0,HBO Hits Dolby HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1831650989?ticket=D7CE066ACBEDAA7691B38ACB295AF38F8DB6CE01&profile=pass
-#EXTINF:0,HBO Family Dolby HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1505307444?ticket=4F1B20EA1D2F46913204333C80E664F97C44ACFA&profile=pass
-#EXTINF:0,Cinemax Dolby HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/784844871?ticket=F765832186BBA9626101130520ED86E821DCB03C&profile=pass
-#EXTINF:0,My Cinema HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1421215239?ticket=EC4FA0D62173B9C6E9B130420ECC69289C32945F&profile=pass
-#EXTINF:0,My Cinema Asia HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/962651135?ticket=D8CD52A1CBCEEADAA3FB6F784217BF5984BDDCE3&profile=pass
-#EXTINF:0,Rock Action HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1297396253?ticket=C3D02CBEA6205FAD36C61D91709B655206E563C3&profile=pass
-#EXTINF:0,Rock Entertainment HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1529737638?ticket=5A777FA4FE06BDEA1BB661CBF8B20A9ABCF5257F&profile=pass
-#EXTINF:0,TVN Movies HD,
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/953372893?ticket=8CBD76562FEA8F33BF219B389F2BFB7E5C4D295D&profile=pass
-#EXTINF:0,Flik HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1107549985?ticket=B7775EB2AE5835A1DB46EC6AD6D23D84012AFD56&profile=pass
-#EXTINF:0,My Family Channel HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1552834394?ticket=23C6FE674D7AE66905A7B0BB300FE10C47277275&profile=pass
-#EXTINF:0,Champions TV1 HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/514602870?ticket=AFFB40AFEB7986D2202CB034192BCD20926B5168&profile=pass
-#EXTINF:0,Champions TV2 HD
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1673181221?ticket=00ACF38EE8452DE4C560F08D05E73EED1CC3FF8B&profile=pass
-#EXTINF:0,SPO TV
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/374463231?ticket=B8449A3F0DB0A1DF0B4028162C1AB9083A70AFD1&profile=pass
-#EXTINF:0,SPO TV2
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1894419107?ticket=4FF2C078E45A6A7172B013B37FB4C22D02B74848&profile=pass
-#EXTINF:0,W sport
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/2056147724?ticket=70E21A44C8F76E4E21634A685AB3868F5B9F8ED1&profile=pass
-#EXTINF:0,Horizon Sport
-#EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/117198118?ticket=3BFDB42325503726FCCBA7B5AB783C7A4F18652A&profile=pass
-#EXTINF:0,Fight Sports HD
