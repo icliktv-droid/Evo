@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="" group-title="SOR RINGIN TV",SOCCCER CHANNEL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV1" tvg-logo="" group-title="SOR RINGIN TV",SPOTV1
+http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="" group-title="SOR RINGIN TV",SPOTV2
+http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTAR1" tvg-logo="" group-title="SOR RINGIN TV",SPORTSTAR1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c/
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTAR2" tvg-logo="" group-title="SOR RINGIN TV",SPORTSTAR2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-id="" tvg-name="LIGA INGGRIS" tvg-logo="" group-title="SOR RINGIN TV",LIGA INGGRIS
+http://103.156.141.151:4567/stream/channelid/664566282?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPION TV5" tvg-logo="" group-title="SOR RINGIN TV",CHAMPION TV5
+http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="CHAMPION TV 6" tvg-logo="" group-title="SOR RINGIN TV",CHAMPION TV6
+http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT MAXIMO" tvg-logo="" group-title="SOR RINGIN TV",SUPERSPORT MAXIMO
+http://103.156.141.151:4567/stream/channelid/825561667?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name=" SUPERSPORT LALIGA" tvg-logo="" group-title="SOR RINGIN TV",SUPERSPORT LALIGA
+http://103.156.141.151:4567/stream/channelid/895154667?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name=" USA EPL" tvg-logo="" group-title="SOR RINGIN TV",USA EPL
+http://103.156.141.151:4567/stream/channelid/1039687709?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 1" tvg-logo="" group-title="SOR RINGIN TV",SPORT TV 1
+http://103.156.141.151:4567/stream/channelid/1529470438?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2" tvg-logo="" group-title="SOR RINGIN TV",SPORT TV 2
+http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="SOR RINGIN TV",INDOSIAR
+http://103.156.141.151:4567/stream/channelid/1245877301?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="SOR RINGIN TV",HBO
+http://103.156.141.151:4567/stream/channelid/145215374?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="" group-title="SOR RINGIN TV",HBO SIGN
+http://103.156.141.151:4567/stream/channelid/323928926?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="SOR RINGIN TV",HBO FAMILY
+http://103.156.141.151:4567/stream/channelid/874120324?profile=pass
+#EXTINF:-1 tvg-id=" " tvg-name=" HBO HITS" tvg-logo="" group-title="SOR RINGIN TV",HBO HITS
+http://103.156.141.151:4567/stream/channelid/1396293580?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="ROCK EXTREME" tvg-logo="" group-title="SOR RINGIN TV",ROCK EXTREM
+http://103.156.141.151:4567/stream/channelid/21570002?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAIMENT" tvg-logo="" group-title="SOR RINGIN TV",ROCK ENTERTAIMEN
+http://103.156.141.151:4567/stream/channelid/605422995?profile=pass
+#EXTINF:-1 tvg-id="ABC Australia - " tvg-name="THIRLL" tvg-logo="" group-title="SOR RINGIN TV",THIRLL
+http://103.156.141.151:4567/stream/channelid/139523732?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="SOR RINGIN TV",CINEMAX
+http://103.156.141.151:4567/stream/channelid/570845997?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="" group-title="SOR RINGIN TV",FLIK
+http://103.156.141.151:4567/stream/channelid/764284111?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="" group-title="SOR RINGIN TV",GALAXY PREMIUM
+http://103.156.141.151:4567/stream/channelid/1116649485?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="" group-title="SOR RINGIN TV",GALAXY
+http://103.156.141.151:4567/stream/channelid/2102143307?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="SOR RINGIN TV",AXN
+http://103.156.141.151:4567/stream/channelid/1940316216?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="SOR RINGIN TV",RCTI
+http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="SOR RINGIN TV",INDOSIAR
+http://103.156.141.151:4567/stream/channelid/582352140?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="" group-title="SOR RINGIN TV", MOJI
+http://103.156.141.151:4567/stream/channelid/438208019?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name=" SCTV" tvg-logo="" group-title="SOR RINGIN TV",SCTV
+http://103.156.141.151:4567/stream/channelid/2055094390?profile=pass
