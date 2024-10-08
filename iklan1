@@ -559,79 +559,79 @@ http://103.156.141.151:4567/stream/channelid/1978738206?profile=pass
 http://103.156.141.151:4567/stream/channelid/2102143307?profile=pass
 #EXTINF:0 type="stream" channelId="-1", KIX, group-title="CH TIARA¹", KIX
 http://103.156.141.151:4567/stream/channelid/2136394137?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Citra Dangdut
+#EXTINF:0 type="stream" channelId="-1", Citra Dangdut, group-title="CH TIARA¹", CITRA DANGDUT
 http://103.156.141.151:4567/stream/channelid/892980275?profile=pass
-#EXTINF:0 type="stream" channelId="-1", U Channel
+#EXTINF:0 type="stream" channelId="-1", U Channel, group-title="CH TIARA¹", U CHANNEL
 http://103.156.141.151:4567/stream/channelid/2016791628?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Sony One
+#EXTINF:0 type="stream" channelId="-1",Sony One, group-title="CH TIARA¹", SONY ONE
 http://103.156.141.151:4567/stream/channelid/45205185?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Arirang
+#EXTINF:0 type="stream" channelId="-1",Arirang, group-title="CH TIARA¹", ARIRANG
 http://103.156.141.151:4567/stream/channelid/188158551?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CCTV4
+#EXTINF:0 type="stream" channelId="-1",CCTV4, group-title="CH TIARA¹", CCTV 4
 http://103.156.141.151:4567/stream/channelid/529840513?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Sony Gem
+#EXTINF:0 type="stream" channelId="-1",Sony Gem, group-title="CH TIARA¹", SONY GEM
 http://103.156.141.151:4567/stream/channelid/652599084?profile=pass
-#EXTINF:0 type="stream" channelId="-1",K+
+#EXTINF:0 type="stream" channelId="-1",K+, group-title="CH TIARA¹", K+
 http://103.156.141.151:4567/stream/channelid/1383595813?profile=pass
-#EXTINF:0 type="stream" channelId="-1",TVN Movie
+#EXTINF:0 type="stream" channelId="-1",TVN Movie, group-title="CH TIARA¹", TVN MOVIE
 http://103.156.141.151:4567/stream/channelid/1498652973?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Fox life
+#EXTINF:0 type="stream" channelId="-1",Fox life, group-title="CH TIARA¹", HITS
 http://103.156.141.151:4567/stream/channelid/1564064339?profile=pass
-#EXTINF:0 type="stream" channelId="-1",TVN
+#EXTINF:0 type="stream" channelId="-1",TVN, group-title="CH TIARA¹", TVN
 http://103.156.141.151:4567/stream/channelid/1630527068?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Fox
+#EXTINF:0 type="stream" channelId="-1",Fox, group-title="CH TIARA¹", FOX
 http://103.156.141.151:4567/stream/channelid/1829325744?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Lifetime
+#EXTINF:0 type="stream" channelId="-1",Lifetime, group-title="CH TIARA¹", LIFETIME
 http://103.156.141.151:4567/stream/channelid/2069847605?profile=pass
-#EXTINF:0 type="stream" channelId="-1",Fox Crime
+#EXTINF:0 type="stream" channelId="-1",Fox Crime, group-title="CH TIARA¹", FOX CRIME
 http://103.156.141.151:4567/stream/channelid/2089810787?profile=pass
-#EXTINF:0 type="stream" channelId="-1",VOLI TV
+#EXTINF:0 type="stream" channelId="-1",VOLI TV, group-title="CH TIARA¹", VOLI TV
 http://103.156.141.151:4567/stream/channelid/367213620?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV1, group-title="CH TIARA¹", CHAMPION TV1
 http://103.156.141.151:4567/stream/channelid/1733758919?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV2, group-title="CH TIARA¹", CHAMPION TV2
 http://103.156.141.151:4567/stream/channelid/1279723616?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV3
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV3, group-title="CH TIARA¹", CHAMPION TV3
 http://103.156.141.151:4567/stream/channelid/1414915908?profile=pass
-#EXTINF:0 type="stream" channelId="-1",CHAMPION TV5
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV5, group-title="CH TIARA¹", CHAMPION TV5
 http://103.156.141.151:4567/stream/channelid/444403166?profile=pass
-#EXTINF:0,CHAMPION TV6
+#EXTINF:0 type="stream" channelId="-1",CHAMPION TV6, group-title="CH TIARA¹", CHAMPION TV6
 http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
-#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 1 INDONESIA
+#EXTINF:0 type="stream" channelId="-1", SPOTV¹, group-title="CH TIARA¹", SPOTV1
 http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
-#EXTINF:0 type="stream" channelId="-1", BEIN SPORTS 3 INDONESIA
+#EXTINF:0 type="stream" channelId="-1", SPOTV², group-title="CH TIARA¹", SPOTV²
 http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
 #EXTINF:0 type="stream" channelId="-1", TRANS 7 DVB-S
 http://103.156.141.151:4567/stream/channelid/457124674?profile=pass
 #EXTINF:0 type="stream" channelId="-1", RCTI DVB-S
 http://103.156.141.151:4567/stream/channelid/1444580021?profile=pass
-#EXTINF:0 type="stream" channelId="-1", RCTI HD B
+#EXTINF:0 type="stream" channelId="-1", RCTI HD B, group-title="CH TIARA¹", RCTI HD-B
 http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
-#EXTINF:0 type="stream" channelId="-1", INEWS HD B
+#EXTINF:0 type="stream" channelId="-1", INEWS HD B, group-title="CH TIARA¹", INEWS HD-B
 http://103.156.141.151:4567/stream/channelid/265629930?profile=pass
-#EXTINF:0 type="stream" channelId="-1", MNCTV HD B
+#EXTINF:0 type="stream" channelId="-1", MNCTV HD B, group-title="CH TIARA¹", MNC HD-B
 http://103.156.141.151:4567/stream/channelid/295477375?profile=pass
-#EXTINF:0 type="stream" channelId="-1", GTV HD B
+#EXTINF:0 type="stream" channelId="-1", GTV HD B, group-title="CH TIARA¹", GTV HD-B
 http://103.156.141.151:4567/stream/channelid/1866677810?profile=pass
-#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD B
+#EXTINF:0 type="stream" channelId="-1", INDOSIAR HD B, group-title="CH TIARA¹", INDOSIAR HD-B
 http://103.156.141.151:4567/stream/channelid/582352140?profile=pass
-#EXTINF:0 type="stream" channelId="-1", MOJI TV B
+#EXTINF:0 type="stream" channelId="-1", MOJI TV B, group-title="CH TIARA¹", MOJITV HD-B
 http://103.156.141.151:4567/stream/channelid/438208019?profile=pass
-#EXTINF:0 type="stream" channelId="-1", SCTV B
+#EXTINF:0 type="stream" channelId="-1", SCTV B, group-title="CH TIARA¹", SCTV HD-B
 http://103.156.141.151:4567/stream/channelid/2055094390?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Film Indonesia (Indonesia Subtittle)
+#EXTINF:0 type="stream" channelId="-1", DTG Film Indonesia (Indonesia Subtittle), group-title="CH TIARA¹", FILM INDO
 http://103.156.141.151:4567/stream/channelid/260014190?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Bollywood Drama
+#EXTINF:0 type="stream" channelId="-1", DTG Bollywood Drama, group-title="CH TIARA¹", DRAMA INDIA
 http://103.156.141.151:4567/stream/channelid/759805549?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG World Movies (Indonesia Subtittle)
+#EXTINF:0 type="stream" channelId="-1", DTG World Movies (Indonesia Subtittle), group-title="CH TIARA¹", FILM DUNIA
 http://103.156.141.151:4567/stream/channelid/1525721857?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Box Office (Indonesia Subtittle)
+#EXTINF:0 type="stream" channelId="-1", DTG Box Office (Indonesia Subtittle), group-title="CH TIARA¹", BOX OFFICE
 http://103.156.141.151:4567/stream/channelid/1979819063?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Action
+#EXTINF:0 type="stream" channelId="-1", DTG Action, group-title="CH TIARA¹", FILM ACTION
 http://103.156.141.151:4567/stream/channelid/2063690598?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Haunted (Indonesia Subtittle)
+#EXTINF:0 type="stream" channelId="-1", DTG Haunted (Indonesia Subtittle), group-title="CH TIARA¹",  HAUNTED
 http://103.156.141.151:4567/stream/channelid/1884877113?profile=pass
-#EXTINF:0 type="stream" channelId="-1", DTG Horror TV
+#EXTINF:0 type="stream" channelId="-1", DTG Horror TV, group-title="CH TIARA¹", HOROR MOVIE
 http://103.156.141.151:4567/stream/channelid/1426318248?profile=pass
 #EXTINF:0 type="stream" channelId="-1", V2Beats
 http://103.156.141.151:4567/stream/channelid/1349195628?profile=pass
