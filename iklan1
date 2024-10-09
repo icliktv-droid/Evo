@@ -1152,9 +1152,9 @@ http://103.195.65.203:9481/stream/channelid/1582459547?ticket=E2CD54618AB255988D
 #EXTINF:0,Dunia Lain
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/341425959?ticket=0A66201FDFBF701D16BC78AE1A24742F33DED3C2&profile=pass
-#EXTINF:0,Channel [V]
+#EXTINF:0,ARENA
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/389159090?ticket=0223F7D924E2A027DAD1EB9689F696C313F03A10&profile=pass
+http://194.143.148.28/MatchArena/index.m3u8
 #EXTINF:0,Bein sport 1
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
