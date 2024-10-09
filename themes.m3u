@@ -8,6 +8,21 @@
 ######## CHANNEL | INDONESIA ########
 ##########################
 
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",WELCOME TO KINGINDOTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",SPORT
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",PSJ TV¨
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",ID~Football¨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",ID~Sport~1¨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",ID~Sport~2¨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/IMG_20240911_143946.jpg" group-title="KING INDO",ID~Spotv¨	
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+
 INDIHOME
 //========================================================================
 
