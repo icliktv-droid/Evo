@@ -88,8 +88,8 @@ http://103.156.141.151:4567/stream/channelid/412280276?profile=pass
 http://103.156.141.151:4567/stream/channelid/1951612046?profile=pass
 #EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="",Eurosport 2 FHD
 http://103.156.141.151:4567/stream/channelid/187605082?profile=pass
-#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="",CELESTIAL MOVIE
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+#EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="",SKY SPORT
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
 #EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="",MY CINEMA
 https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
 #EXTINF:-1 group-title="SPORT TIARA™" "  tvg-logo="",CINEMAWORLD
