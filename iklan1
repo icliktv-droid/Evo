@@ -601,9 +601,9 @@ http://103.156.141.151:4567/stream/channelid/2132429597?profile=pass
 http://103.156.141.151:4567/stream/channelid/468795732?profile=pass
 #EXTINF:0 type="stream" channelId="-1", SPOTV², group-title="CH TIARA¹", SPOTV²
 http://103.156.141.151:4567/stream/channelid/1638978261?profile=pass
-#EXTINF:0 type="stream" channelId="-1", TRANS 7 DVB-S
+#EXTINF:0 type="stream" channelId="-1", TRANS 7 DVB-S,group-title="CH TIARA¹", TRANS7-DVBS
 http://103.156.141.151:4567/stream/channelid/457124674?profile=pass
-#EXTINF:0 type="stream" channelId="-1", RCTI DVB-S
+#EXTINF:0 type="stream" channelId="-1", RCTI DVB-S,group-title="CH TIARA¹", RCTI DVB-S
 http://103.156.141.151:4567/stream/channelid/1444580021?profile=pass
 #EXTINF:0 type="stream" channelId="-1", RCTI HD B, group-title="CH TIARA¹", RCTI HD-B
 http://103.156.141.151:4567/stream/channelid/1296808926?profile=pass
@@ -643,7 +643,7 @@ http://103.156.141.151:4567/stream/channelid/969119593?profile=pass
 http://103.156.141.151:4567/stream/channelid/1093895484?profile=pass
 #EXTINF:0 type="stream" channelId="-1", INEWS HD
 http://103.156.141.151:4567/stream/channelid/340125618?profile=pass
-#EXTINF:0,CCM HD 
+#EXTINF:0,CCM HD type="stream" channelId="-1", CCM HD
 http://103.156.141.151:4567/stream/channelid/1055824693?profile=pass
 #EXTINF:0,Lagu Daerah Indonesia
 http://103.156.141.151:4567/stream/channelid/39724064?profile=pass
