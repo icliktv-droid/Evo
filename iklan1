@@ -1161,12 +1161,12 @@ http://103.195.65.203:9481/stream/channelid/1992651715?ticket=85E5C9E718B8AD7707
 #EXTINF:0,MTV Live
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/1279934608?ticket=D95605801FCC34F1E1953E0921C43FBC07F92C92&profile=pass
-#EXTINF:0,HBO Dolby HD
+#EXTINF:0,SPORT V1
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/509739107?ticket=E8A5D9BAA99B766F9ABB2D6FE071427953EDE85A&profile=pass
-#EXTINF:0,HBO Signature Dolby HD
+https://live444.xyz/stream/8/index.m3u8
+#EXTINF:0,SPORT V
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/579600852?ticket=870E70E1449533F528793C3AA84EE47BD517FA1D&profile=pass
+https://live444.xyz/cloud/stream/9be0a66d6bd2422f8f2cf0c17172d0c4/1/index.m3u8
 
 
 
