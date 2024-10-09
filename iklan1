@@ -1143,9 +1143,9 @@ http://103.195.65.203:9481/stream/channelid/2070777858?ticket=4CF6C606FFB7809565
 #EXTINF:0,Discovery HD
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/1751149199?ticket=5D41FD512F0D4A6221608BDB9F9C531A57E44401&profile=pass
-#EXTINF:0,Animal Planet HD
+#EXTINF:0,TRT SPORT
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1826622254?ticket=42E1AA688838A6F0DD63F4A27F74B5C727EDAC75&profile=pass
+https://live444.xyz/cloud/stream/e365f35881564bfe94ea1913a2df60a6/40/index.m3u8
 #EXTINF:0,SERIE A
 #EXTVLCOPT:network-caching=1000
 http://194.143.148.28/MatchFutbol1/index.m3u8
