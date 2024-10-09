@@ -1146,9 +1146,9 @@ http://103.195.65.203:9481/stream/channelid/1751149199?ticket=5D41FD512F0D4A6221
 #EXTINF:0,Animal Planet HD
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/1826622254?ticket=42E1AA688838A6F0DD63F4A27F74B5C727EDAC75&profile=pass
-#EXTINF:0,Citra Dangdut
+#EXTINF:0,SERIE A
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/1582459547?ticket=E2CD54618AB255988DC86D4130AF7C2F89713758&profile=pass
+http://194.143.148.28/MatchFutbol1/index.m3u8
 #EXTINF:0,Bein Sport 1
 #EXTVLCOPT:network-caching=1000
 https://live444.xyz/cloud/stream/27f9e31a10b64bfc9342726f7c661f4d/75/index.m3u8
