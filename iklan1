@@ -1149,13 +1149,13 @@ http://103.195.65.203:9481/stream/channelid/1826622254?ticket=42E1AA688838A6F0DD
 #EXTINF:0,Citra Dangdut
 #EXTVLCOPT:network-caching=1000
 http://103.195.65.203:9481/stream/channelid/1582459547?ticket=E2CD54618AB255988DC86D4130AF7C2F89713758&profile=pass
-#EXTINF:0,Dunia Lain
+#EXTINF:0,Bein Sport 1
 #EXTVLCOPT:network-caching=1000
-http://103.195.65.203:9481/stream/channelid/341425959?ticket=0A66201FDFBF701D16BC78AE1A24742F33DED3C2&profile=pass
+https://live444.xyz/cloud/stream/27f9e31a10b64bfc9342726f7c661f4d/75/index.m3u8
 #EXTINF:0,ARENA
 #EXTVLCOPT:network-caching=1000
 http://194.143.148.28/MatchArena/index.m3u8
-#EXTINF:0,Bein sport 1
+#EXTINF:0,Bein sport 3
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 #EXTINF:0,TRUE SPORT 2
