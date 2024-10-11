@@ -1,129 +1,129 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-sctv-big1.png", SCTV
+#EXTINF:0 type="stream" channelId="-1" logo="", SCTV
 http://103.160.205.142:9999/stream/channelid/7308616?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-indosiar-big1.png", Indosiar
+#EXTINF:0 type="stream" channelId="-1" logo="", Indosiar
 http://103.160.205.142:9999/stream/channelid/678789371?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-antv-big1.png",  ANTV
+#EXTINF:0 type="stream" channelId="-1" logo="",  ANTV
 http://103.160.205.142:9999/stream/channelid/2109986031?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-transtv-big1.png",  Trans TV
+#EXTINF:0 type="stream" channelId="-1" logo="",  Trans TV
 http://103.160.205.142:9999/stream/channelid/1829676263?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-trans7-big1.png",  Trans 7
+#EXTINF:0 type="stream" channelId="-1" logo="",  Trans 7
 http://103.160.205.142:9999/stream/channelid/33997894?profile=pass
-#EXTINF:0 type="stream" channelId="1226" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvri_big1.png", 011 TVRI
+#EXTINF:0 type="stream" channelId="1226" logo="", 011 TVRI
 http://103.160.205.142:9999/stream/channelid/365315311?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-metrotv.png",  Metro TV
+#EXTINF:0 type="stream" channelId="-1" logo="",  Metro TV
 http://103.160.205.142:9999/stream/channelid/1360611176?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cnnindonesia_big1.png",  CNN Indonesia
+#EXTINF:0 type="stream" channelId="-1" logo="",  CNN Indonesia
 http://103.160.205.142:9999/stream/channelid/1408164073?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-tvone-big1.png",  TV One
+#EXTINF:0 type="stream" channelId="-1" logo="",  TV One
 http://103.160.205.142:9999/stream/channelid/1076844350?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-kompastv-big1.png",  Kompas TV
+#EXTINF:0 type="stream" channelId="-1" logo="",  Kompas TV
 http://103.160.205.142:9999/stream/channelid/1826417428?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_inews_big.png",  iNews
+#EXTINF:0 type="stream" channelId="-1" logo="",  iNews
 http://103.160.205.142:9999/stream/channelid/1885698931?profile=pass
-#EXTINF:0 type="stream" channelId="4670" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_net_big1.png", 017 Net TV
+#EXTINF:0 type="stream" channelId="4670" logo="", 017 Net TV
 http://103.160.205.142:9999/stream/channelid/1890403692?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-rtv-big1.png", 018 RTV
+#EXTINF:0 type="stream" channelId="-1" logo="", 018 RTV
 http://103.160.205.142:9999/stream/channelid/1837241089?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_ochannel_big.png", 019 Moji
+#EXTINF:0 type="stream" channelId="-1" logo="", 019 Moji
 http://103.160.205.142:9999/stream/channelid/1339882017?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv_ver1.png", 020 SPOTV
+#EXTINF:0 type="stream" channelId="-1" logo="", 020 SPOTV
 http://103.160.205.142:9999/stream/channelid/1042437438?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv2_ver1.png", 021 SPOTV 2
+#EXTINF:0 type="stream" channelId="-1" logo="", 021 SPOTV 2
 http://103.160.205.142:9999/stream/channelid/1140196012?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fightsport_ver1.png", 022 Fight Sport
+#EXTINF:0 type="stream" channelId="-1" logo="", 022 Fight Sport
 http://103.160.205.142:9999/stream/channelid/940256866?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ5_HD.png", 025 CHAMPIONS TV5
+#EXTINF:0 type="stream" channelId="-1" logo="", 025 CHAMPIONS TV5
 http://103.160.205.142:9999/stream/channelid/1994754257?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ6_HD.png", 026 CHAMPIONS TV6
+#EXTINF:0 type="stream" channelId="-1" logo="", 026 CHAMPIONS TV6
 http://103.160.205.142:9999/stream/channelid/1459944935?profile=pass
-#EXTINF:0 type="stream" channelId="805" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_nba_ver1.png", 027 NBA TV
+#EXTINF:0 type="stream" channelId="805" logo="", 027 NBA TV
 http://103.160.205.142:9999/stream/channelid/290318848?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/volitv.png", 028 Voli TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 028 Voli TV
 http://103.160.205.142:9999/stream/channelid/593394479?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nusantaratv_big.png", 029 Nusantara TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 029 Nusantara TV
 http://103.160.205.142:9999/stream/channelid/1542794943?profile=pass
-#EXTINF:0 type="stream" channelId="5223" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png", 029 WSport
+#EXTINF:0 type="stream" channelId="5223" logo="", 029 WSport
 http://103.160.205.142:9999/stream/channelid/99959099?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png", 030 Horizon Sports
+#EXTINF:0 type="stream" channelId="-1" logo="", 030 Horizon Sports
 http://103.160.205.142:9999/stream/channelid/1964983963?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rri_big1.png", 030 RRI Net
+#EXTINF:0 type="stream" channelId="-1" logo="", 030 RRI Net
 http://103.160.205.142:9999/stream/channelid/834158169?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_Jowo_channel.png", 033 Jowo
+#EXTINF:0 type="stream" channelId="-1" logo="", 033 Jowo
 http://103.160.205.142:9999/stream/channelid/2052522550?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_indonesiana_big.png", 034 Indonesiana TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 034 Indonesiana TV
 http://103.160.205.142:9999/stream/channelid/580054994?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idtv.png", 038 IDTV
+#EXTINF:0 type="stream" channelId="-1" logo="", 038 IDTV
 http://103.160.205.142:9999/stream/channelid/1330308318?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_daaitv_big1.png", 042 Daai TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 042 Daai TV
 http://103.160.205.142:9999/stream/channelid/1360528516?profile=pass
-#EXTINF:0 type="stream" channelId="962" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-atv-big1.png", 043 ATV
+#EXTINF:0 type="stream" channelId="962" logo="", 043 ATV
 http://103.160.205.142:9999/stream/channelid/2039157435?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_balitv_big1.png", 044 Bali TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 044 Bali TV
 http://103.160.205.142:9999/stream/channelid/572026440?profile=pass
-#EXTINF:0 type="stream" channelId="4566" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_jtv_big1.png", 045 JTV
+#EXTINF:0 type="stream" channelId="4566" logo="", 045 JTV
 http://103.160.205.142:9999/stream/channelid/513348617?profile=pass
-#EXTINF:0 type="stream" channelId="171" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_davinci_big1.png", 047 Da Vinci
+#EXTINF:0 type="stream" channelId="171" logo="", 047 Da Vinci
 http://103.160.205.142:9999/stream/channelid/832980634?profile=pass
-#EXTINF:0 type="stream" channelId="41" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nickelodeon_big.png", 048 Nickelodeon
+#EXTINF:0 type="stream" channelId="41" logo="", 048 Nickelodeon
 http://103.160.205.142:9999/stream/channelid/1547964064?profile=pass
-#EXTINF:0 type="stream" channelId="322" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nickjr_big.png", 049 Nick Junior
+#EXTINF:0 type="stream" channelId="322" logo="", 049 Nick Junior
 http://124.121.0.232:10000/bysid/2716
-#EXTINF:0 type="stream" channelId="40" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cartoonnetwork_big.png", 050 Cartoon Network
+#EXTINF:0 type="stream" channelId="40" logo="", 050 Cartoon Network
 http://103.160.205.142:9999/stream/channelid/1122028315?profile=pass
-#EXTINF:0 type="stream" channelId="1305" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cartoonitoSD.png", 051 CARTOONITO
+#EXTINF:0 type="stream" channelId="1305" logo="", 051 CARTOONITO
 http://103.160.205.142:9999/stream/channelid/1309322254?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dreamworks_big1.png", 052 Dream Work
+#EXTINF:0 type="stream" channelId="-1" logo="", 052 Dream Work
 http://103.160.205.142:9999/stream/channelid/1290628969?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_ver1HD.png", 053 Moonbug Kids
+#EXTINF:0 type="stream" channelId="-1" logo="", 053 Moonbug Kids
 http://103.160.205.142:9999/stream/channelid/514979214?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png", 054  Dunia Anak
+#EXTINF:0 type="stream" channelId="-1" logo="", 054  Dunia Anak
 http://103.160.205.142:9999/stream/channelid/1924332851?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/FUNPLANET-OTT-88.png", 056 Fun Planet
+#EXTINF:0 type="stream" channelId="-1" logo="", 056 Fun Planet
 http://103.160.205.142:9999/stream/channelid/1558401663?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horee_big.png", 057 Horee!
+#EXTINF:0 type="stream" channelId="-1" logo="", 057 Horee!
 http://103.160.205.142:9999/stream/channelid/1457960756?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mentaritv_big.png", 058 Mentari TV
+#EXTINF:0 type="stream" channelId="-1" logo="", 058 Mentari TV
 http://103.160.205.142:9999/stream/channelid/2010820494?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_blueantext_big.png", 060 Rock Action
+#EXTINF:0 type="stream" channelId="-1" logo="", 060 Rock Action
 http://103.160.205.142:9999/stream/channelid/1395581491?profile=pass
-#EXTINF:0 type="stream" channelId="97" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_sone_big.png", 061 One
+#EXTINF:0 type="stream" channelId="97" logo="", 061 One
 http://103.160.205.142:9999/stream/channelid/888053109?profile=pass
-#EXTINF:0 type="stream" channelId="1330" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbo.png", 063 HBO
+#EXTINF:0 type="stream" channelId="1330" logo="", 063 HBO
 http://103.160.205.142:9999/stream/channelid/1231281752?profile=pass
-#EXTINF:0 type="stream" channelId="2583" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbosignature.png", 064 HBO Signature
+#EXTINF:0 type="stream" channelId="2583" logo="", 064 HBO Signature
 http://103.160.205.142:9999/stream/channelid/70011866?profile=pass
-#EXTINF:0 type="stream" channelId="1326" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/cinemax.png", 065 Cinemax
+#EXTINF:0 type="stream" channelId="1326" logo="", 065 Cinemax
 http://103.160.205.142:9999/stream/channelid/61839487?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbohits.png", 066 HBO Hits
+#EXTINF:0 type="stream" channelId="-1" logo="", 066 HBO Hits
 http://103.160.205.142:9999/stream/channelid/412045953?profile=pass
-#EXTINF:0 type="stream" channelId="2584" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/hbofamily.png", 067 HBO Family
+#EXTINF:0 type="stream" channelId="2584" logo="", 067 HBO Family
 http://103.160.205.142:9999/stream/channelid/881035868?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_hitsmovie_ver1.png", 068 Hits Movies
+#EXTINF:0 type="stream" channelId="-1" logo="", 068 Hits Movies
 http://103.160.205.142:9999/stream/channelid/1739299626?profile=pass
-#EXTINF:0 type="stream" channelId="1286" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_thrill_big.png", 069 Thrill
+#EXTINF:0 type="stream" channelId="1286" logo="", 069 Thrill
 http://103.160.205.142:9999/stream/channelid/902369831?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/celectial.png", 070 Celestial Movie
+#EXTINF:0 type="stream" channelId="-1" logo="", 070 Celestial Movie
 http://103.160.205.142:9999/stream/channelid/932233433?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mycinema_ver1.png", 071 My Cinema
+#EXTINF:0 type="stream" channelId="-1" logo="", 071 My Cinema
 http://103.160.205.142:9999/stream/channelid/670055226?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvnmovies_ver1.png", 072 TVN Movie
+#EXTINF:0 type="stream" channelId="-1" logo="", 072 TVN Movie
 http://103.160.205.142:9999/stream/channelid/1130596325?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_zbioskop_big1.png", 073 Z Bioskop
+#EXTINF:0 type="stream" channelId="-1" logo="", 073 Z Bioskop
 http://103.160.205.142:9999/stream/channelid/2126118992?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/cinemaworld.png", 074 Cinema World
+#EXTINF:0 type="stream" channelId="-1" logo="", 074 Cinema World
 http://103.160.205.142:9999/stream/channelid/1475601552?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_myfamily_ver1.png", 075 My Family Channel
+#EXTINF:0 type="stream" channelId="-1" logo="", 075 My Family Channel
 http://103.160.205.142:9999/stream/channelid/662066863?profile=pass
-#EXTINF:0 type="stream" channelId="391" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_galaxy_big1.png", 076 Galaxy
+#EXTINF:0 type="stream" channelId="391" logo="", 076 Galaxy
 http://103.160.205.142:9999/stream/channelid/1680672437?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_bioskopindonesia_big1.png", 077 Bioskop Indonesia
+#EXTINF:0 type="stream" channelId="-1" logo="", 077 Bioskop Indonesia
 http://103.160.205.142:9999/stream/channelid/856950329?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_flik_big1.png", 078 Flik
+#EXTINF:0 type="stream" channelId="-1" logo="", 078 Flik
 http://103.160.205.142:9999/stream/channelid/1727313314?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_imc_big.png", 079 IMC
+#EXTINF:0 type="stream" channelId="-1" logo="", 079 IMC
 http://103.160.205.142:9999/stream/channelid/2146465952?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_galaxypremium_big.png", 080 Galaxy Prenium
+#EXTINF:0 type="stream" channelId="-1" logo="", 080 Galaxy Prenium
 http://103.160.205.142:9999/stream/channelid/1870168068?profile=pass
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_new-mycinemaasia_big.png", 081 My Cinema Asia
 http://103.160.205.142:9999/stream/channelid/1188853172?profile=pass
@@ -181,8 +181,7 @@ http://103.160.205.142:9999/stream/channelid/1426589845?profile=pass
 http://103.160.205.142:9999/stream/channelid/1340297714?profile=pass
 #EXTINF:0 type="stream" channelId="4006" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cgtndocumentary_big1.png", 113 CGTN Documentary
 http://103.160.205.142:9999/stream/channelid/1727634864?profile=pass
-#EXTINF:0 type="stream" channelId="1455" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_history_big.png", 114 History Channel
-http://124.121.0.232:10000/bysid/2713
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/pandatv.png", 115 iPanda TV
 http://103.160.205.142:9999/stream/channelid/319528596?profile=pass
 #EXTINF:0 type="stream" channelId="57" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_discovery_big.png", 116 Discovery
@@ -209,45 +208,34 @@ http://103.160.205.142:9999/stream/channelid/1225107608?profile=pass
 http://103.160.205.142:9999/stream/channelid/937721447?profile=pass
 #EXTINF:0 type="stream" channelId="1200" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_lifetime_big.png", 128 Lifetime
 http://103.160.205.142:9999/stream/channelid/1832150603?profile=pass
-#EXTINF:0 type="stream" channelId="1283" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_kix_big.png", 129 KIX
+#EXTINF:0 type="stream" channelId="1283" logo="", 129 KIX
 http://103.160.205.142:9999/stream/channelid/67640739?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_hits_ver1.png", 130 Hits
+#EXTINF:0 type="stream" channelId="-1" logo="", 130 Hits
 http://103.160.205.142:9999/stream/channelid/257768875?profile=pass
 #EXTINF:0 type="stream" channelId="2557" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_warner_big.png", 131 Warner
 http://103.160.205.142:9999/stream/channelid/1447515629?profile=pass
-#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_axn_big.png", 132 AXN
+#EXTINF:0 type="stream" channelId="1573" logo="", 132 AXN
 http://103.160.205.142:9999/stream/channelid/974575193?profile=pass
-#EXTINF:0 type="stream" channelId="2201" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tv5monde_big1.png", 133 TV5Monde
+#EXTINF:0 type="stream" channelId="2201" logo="", 133 TV5Monde
 http://103.160.205.142:9999/stream/channelid/969876322?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_blueant_big.png", 134 Rock Entertaiment
+#EXTINF:0 type="stream" channelId="-1" logo="", 134 Rock Entertaiment
 http://103.160.205.142:9999/stream/channelid/1326284203?profile=pass
-#EXTINF:0 type="stream" channelId="2344" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvn_big.png", 135 TVN
+#EXTINF:0 type="stream" channelId="2344" logo="", 135 TVN
 http://103.160.205.142:9999/stream/channelid/1534964178?profile=pass
-#EXTINF:0 type="stream" channelId="3249" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/kbsworld.png", 136 KBS World
+#EXTINF:0 type="stream" channelId="3249" logo="", 136 KBS World
 http://103.160.205.142:9999/stream/channelid/2013775560?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_aniplus_big1.png", 137 Aniplus
+#EXTINF:0 type="stream" channelId="-1" logo="", 137 Aniplus
 http://103.160.205.142:9999/stream/channelid/19886602?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nhkworld_big1.png", 138 NHK World Premium
+#EXTINF:0 type="stream" channelId="-1" logo="", 138 NHK World Premium
 http://103.160.205.142:9999/stream/channelid/752767269?profile=pass
-#EXTINF:0 type="stream" channelId="883" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_kplus_big1.png", 139 K+
+#EXTINF:0 type="stream" channelId="883" logo="", 139 K+
 http://103.160.205.142:9999/stream/channelid/1289706951?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dunialain_big.png", 142 Dunia Lain
+#EXTINF:0 type="stream" channelId="-1" logo="", 142 Dunia Lain
 http://103.160.205.142:9999/stream/channelid/1758070940?profile=pass
-#EXTINF:0 type="stream" channelId="529" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_arirang_big.png", 143 Arirang
+#EXTINF:0 type="stream" channelId="529" logo="", 143 Arirang
 http://103.160.205.142:9999/stream/channelid/2034936054?profile=pass
-#EXTINF:0 type="stream" channelId="894" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_cctv4_big1.png", 144 CCTV4
+#EXTINF:0 type="stream" channelId="894" logo="", 144 CCTV4
 http://103.160.205.142:9999/stream/channelid/1902858471?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_citradrama_big.png", 145 Citra Drama
+#EXTINF:0 type="stream" channelId="-1" logo="", 145 Citra Drama
 http://103.160.205.142:9999/stream/channelid/337466608?profile=pass
-#EXTINF:0 type="stream" channelId="-1", 145 TrueFilm Asia
-http://124.121.0.232:10000/bysid/2715
-#EXTINF:0 type="stream" channelId="-1", 146 TrueMovie Hits
-http://124.121.0.232:10000/bysid/2725
-#EXTINF:0 type="stream" channelId="-1", 147 True ThaiFilm
-http://124.121.0.232:10000/bysid/2726
-#EXTINF:0 type="stream" channelId="-1", 148 Spark Play
-http://124.121.0.232:10003/bysid/2327
-#EXTINF:0 type="stream" channelId="-1", 149 Dreamworks
-http://124.121.0.232:10005/bysid/2516
-#EXTINF:0 type="stream" channelId="-1", 150 Disney Jr
-http://168.181.122.234:8000/play/a037/index.m3u8
+
