@@ -1332,7 +1332,7 @@ https://live444.xyz/cloud/stream/3214fff47f7a481e810b82662372de1c/3/index.m3u8
 https://live444.xyz/stream/8/index.m3u8
 #EXTINF:0,SPORT V
 #EXTVLCOPT:network-caching=1000
-https://live444.xyz/cloud/stream/9be0a66d6bd2422f8f2cf0c17172d0c4/1/index.m3u8
+https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/Id.m3u8
 
 
 
