@@ -1324,15 +1324,20 @@ http://194.143.148.28/MatchArena/index.m3u8
 #EXTINF:0,Bein sport 3
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
-#EXTINF:0,TRUE SPORT 2
-#EXTVLCOPT:network-caching=1000
-https://live444.xyz/cloud/stream/3214fff47f7a481e810b82662372de1c/3/index.m3u8
-#EXTINF:0,SPORT V1
-#EXTVLCOPT:network-caching=1000
-https://live444.xyz/stream/8/index.m3u8
-#EXTINF:0,SPORT V
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/icliktv-droid/iclik-droid/refs/heads/main/Id.m3u8
+logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Sports",Champions 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm
+https://sritv.serv00.net/red/play.mpd?id=9182&type=dash
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Sports",Champions 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm
+https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 
 
 
