@@ -1741,10 +1741,11 @@ https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="TIMNAS",Champion 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://geo-id-tl-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6685_stream.mpd?hdnts=exp=1728764352~acl=/drm/dash/6685*~id=allUsers~hmac=d7cf79cfa12d24ed2b8c45e5454c03691db748c0f7478197b2e7e454a70ffeb1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
+#https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="TIMNAS",Sportstars 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
